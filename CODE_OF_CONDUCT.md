@@ -26,4 +26,4 @@ Relate violações aos mantenedores por e-mail: `contato@wainp.com.br`. O relato
 
 ## Referência
 
-O contrato social completo está em `rede_civica.md`, no repo `rede-civica-docs`.
+O contrato social completo está em `rede_civica.md`, no repo [`docs`](https://github.com/Rede-Civica/docs).

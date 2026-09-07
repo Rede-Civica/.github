@@ -4,9 +4,9 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 ## Repositórios
 
-- [`rede-civica-api`](https://github.com/Rede-Civica/rede-civica-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos.
-- [`rede-civica-web`](https://github.com/Rede-Civica/rede-civica-web): front-end React, PWA map-first.
-- [`rede-civica-docs`](https://github.com/Rede-Civica/rede-civica-docs): modelo conceitual completo, especificações de software e planos de implementação.
+- [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos.
+- [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first.
+- [`docs`](https://github.com/Rede-Civica/docs): modelo conceitual completo, especificações de software e planos de implementação.
 
 ## Licença
 
