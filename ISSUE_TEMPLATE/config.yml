@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentação conceitual
+    url: https://github.com/Rede-Civica/rede-civica-docs
+    about: Modelo conceitual, especificações e planos de implementação
+  - name: Segurança
+    url: https://github.com/Rede-Civica
+    about: Vulnerabilidades não são relatadas em issue aberta. Siga o SECURITY.md ou escreva para contato@wainp.com.br
