@@ -29,7 +29,7 @@ No horizonte do projeto, a governança se institucionaliza como fundação sem f
 Para quem quer entender a camada de mapa, do dado ao render, na ordem:
 
 1. Fundamentos: [mapa_e_tiles.md](https://github.com/Rede-Civica/docs/blob/master/mapa_e_tiles.md) no repo `docs`. Conceitos de tile e zoom, formatos de dado e glossário.
-2. Geração: [scripts/tiles](https://github.com/Rede-Civica/mvp-api/tree/main/scripts/tiles) no repo `mvp-api`. Como o `brasil.mbtiles` é gerado a partir do OpenStreetMap, dos prédios da Microsoft e da cobertura vegetal da Overture.
+2. Geração: [scripts/tiles](https://github.com/Rede-Civica/mvp-api/tree/main/scripts/tiles) no repo `mvp-api`. Como a camada base é gerada a partir do OpenStreetMap, dos prédios da Microsoft, da cobertura vegetal da Overture e do contexto dos vizinhos da América do Sul.
 3. Consumo: seção "Mapa — como a camada base funciona" no [README do mvp-web](https://github.com/Rede-Civica/mvp-web#readme). Como o app serve e renderiza os tiles.
 
 ## Status
