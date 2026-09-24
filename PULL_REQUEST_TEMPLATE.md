@@ -10,7 +10,7 @@ Fixe a issue com `Fixes #<número>` ou link direto.
 
 - [ ] Li o `AGENTS.md` deste repositório
 - [ ] Commits em Conventional Commits, em português
-- [ ] Commits assinados com DCO (`Signed-off-by`)
+- [ ] Aceite do CLA registrado no pull request
 - [ ] Gates passando: lint, typecheck, format:check, test
 - [ ] Nenhum segredo, chave ou credencial no diff
 - [ ] Parâmetros públicos sincronizados nos dois espelhos, se aplicável
