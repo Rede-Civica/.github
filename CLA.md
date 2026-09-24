@@ -14,7 +14,7 @@ Ao aceitar este acordo, Você concede ao Titular as licenças abaixo para as sua
 
 ### 1. Definições
 
-**Titular:** Guilherme M., pessoa física, titular do projeto Rede Cívica. Contato: dev@redecivica.com.br.
+**Titular:** Guilherme M., pessoa física, titular do projeto Rede Cívica. Contato: contato@redecivica.com.br.
 
 **Você:** a pessoa física titular dos direitos autorais que aceita este acordo.
 
@@ -76,7 +76,7 @@ As demais definições da Parte I valem nesta parte.
 
 ### 9. Pessoas autorizadas
 
-A entidade deve informar ao Titular, por e-mail para dev@redecivica.com.br, a relação das pessoas autorizadas a enviar Contribuições em seu nome. A relação pode ser atualizada pela mesma via.
+A entidade deve informar ao Titular, por e-mail para contato@redecivica.com.br, a relação das pessoas autorizadas a enviar Contribuições em seu nome. A relação pode ser atualizada pela mesma via.
 
 Cada pessoa que aceita este acordo declara que tem autorização da entidade para isso.
 

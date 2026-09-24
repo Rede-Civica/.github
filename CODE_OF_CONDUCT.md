@@ -22,7 +22,7 @@ Todo bloqueio é registrado e pode ser revisto pelos demais mantenedores.
 
 ## Como reportar
 
-Relate violações aos mantenedores por e-mail: `contato@wainp.com.br`. O relato é tratado em sigilo.
+Relate violações aos mantenedores por e-mail: `contato@redecivica.com.br`. O relato é tratado em sigilo.
 
 ## Referência
 

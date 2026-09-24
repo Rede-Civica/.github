@@ -14,4 +14,4 @@ O uso do nome e do logo em serviço derivado não pode sugerir oficialidade nem 
 
 Pedidos de uso comercial da marca passam pelo titular, Guilherme M.
 
-Contato: dev@redecivica.com.br
+Contato: contato@redecivica.com.br
