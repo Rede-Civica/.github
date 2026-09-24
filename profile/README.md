@@ -13,6 +13,8 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 Todo o código é AGPL-3.0. Copyleft forte para serviços de rede.
 
+O nome e o logo Rede Cívica são marca do projeto. A licença do código não concede direito de uso da marca. A política está em [TRADEMARK.md](https://github.com/Rede-Civica/.github/blob/main/TRADEMARK.md).
+
 ## Governança
 
 O processo de desenvolvimento é público. Contribuições seguem o fluxo documentado no `CONTRIBUTING.md` de cada repositório de código e o código de conduta desta org.
