@@ -12,6 +12,6 @@ O uso do nome e do logo em serviço derivado não pode sugerir oficialidade nem 
 
 ## Uso comercial
 
-Pedidos de uso comercial da marca passam pelo titular, Rede Cívica.
+Pedidos de uso comercial da marca passam pelo titular, Guilherme M.
 
-Contato: dev@redecivica.org
+Contato: dev@redecivica.com.br
