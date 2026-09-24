@@ -1,0 +1,8 @@
+Prova de anterioridade: Rede Cívica v0.1.0
+
+Repositório: Rede-Civica/mvp-docs
+Tag: v0.1.0
+SHA da tag: b53b78778f429dce6a2484b703493fbb3d3e68e7
+Commit: a77b11a78b2b06daae3f563e0fe5d061a9e13e26
+Tagger: Guilherme M. <contato@redecivica.com.br>
+Data: 2026-09-24T12:03:56-03:00
