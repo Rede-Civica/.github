@@ -6,12 +6,14 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 - [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos. AGPL-3.0.
 - [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first. AGPL-3.0.
-- [`docs`](https://github.com/Rede-Civica/docs): modelo conceitual completo e especificações de software. AGPL-3.0.
+- [`docs`](https://github.com/Rede-Civica/docs): modelo conceitual completo e especificações de software. CC BY-SA 4.0.
 - [`mvp-docs`](https://github.com/Rede-Civica/mvp-docs): site público de documentação, em [`docs.redecivica.com.br`](https://docs.redecivica.com.br). AGPL-3.0.
 
 ## Licença
 
 Todo o código é AGPL-3.0. Copyleft forte para serviços de rede.
+
+O livro e a documentação são CC BY-SA 4.0. Compartilhamento e adaptação livres, com atribuição e a mesma licença.
 
 O nome e o logo Rede Cívica são marca do projeto. A licença do código não concede direito de uso da marca. A política está em [TRADEMARK.md](https://github.com/Rede-Civica/.github/blob/main/TRADEMARK.md).
 
