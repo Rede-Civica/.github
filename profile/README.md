@@ -6,7 +6,7 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 - [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos. AGPL-3.0.
 - [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first. AGPL-3.0.
-- [`docs`](https://github.com/Rede-Civica/docs): modelo conceitual completo e especificações de software. CC BY-SA 4.0.
+- [`docs`](https://github.com/Rede-Civica/docs): livro, especificações de software, tutoriais, guias e referências. CC BY-SA 4.0.
 - [`mvp-docs`](https://github.com/Rede-Civica/mvp-docs): site público de documentação, em [`docs.redecivica.com.br`](https://docs.redecivica.com.br). AGPL-3.0.
 
 ## Licença
@@ -25,15 +25,19 @@ No horizonte do projeto, a governança se institucionaliza como fundação sem f
 
 ## Como começar
 
-- Modelo conceitual: `rede_civica.md` no repo de docs.
-- Contribuição de código: `CONTRIBUTING.md` e `AGENTS.md` nos repos de código.
+O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro, os tutoriais, os guias práticos e a referência.
+
+- Entender o modelo: [livro Rede Cívica](https://docs.redecivica.com.br/rede-civica/) e [`rede_civica.md`](https://github.com/Rede-Civica/docs/blob/master/rede_civica.md).
+- Rodar o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
+- Contribuir com código: `CONTRIBUTING.md` e `AGENTS.md` nos repos de código.
+- Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Vulnerabilidades: `SECURITY.md` nos repos de código.
 
 ### Trilha de aprendizagem do mapa
 
 Para quem quer entender a camada de mapa, do dado ao render, na ordem:
 
-1. Fundamentos: [mapa_e_tiles.md](https://github.com/Rede-Civica/docs/blob/master/mapa_e_tiles.md) no repo `docs`. Conceitos de tile e zoom, formatos de dado e glossário.
+1. Fundamentos: [Mapas e tiles: como funcionam](https://github.com/Rede-Civica/docs/blob/master/mapa_e_tiles.md) no repo `docs`. Conceitos de tile e zoom e formatos de dado, com o glossário e as fontes na [referência de mapas e tiles](https://github.com/Rede-Civica/docs/blob/master/referencia_mapas_e_tiles.md).
 2. Geração: [scripts/tiles](https://github.com/Rede-Civica/mvp-api/tree/main/scripts/tiles) no repo `mvp-api`. Como a camada base é gerada a partir do OpenStreetMap, dos prédios da Microsoft, da cobertura vegetal da Overture e do contexto dos vizinhos da América do Sul.
 3. Consumo: seção "Mapa — como a camada base funciona" no [README do mvp-web](https://github.com/Rede-Civica/mvp-web#readme). Como o app serve e renderiza os tiles.
 
