@@ -6,6 +6,7 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 - [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos. AGPL-3.0.
 - [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first. AGPL-3.0.
+- [`mvp-inferencia`](https://github.com/Rede-Civica/mvp-inferencia): serviço Python/FastAPI de inferência de IA self-hosted (imagem, áudio e texto), consumido pela API pela rede interna. AGPL-3.0.
 - [`docs`](https://github.com/Rede-Civica/docs): livro, especificações de software, tutoriais, guias e referências. CC BY-SA 4.0.
 - [`mvp-docs`](https://github.com/Rede-Civica/mvp-docs): site público de documentação, em [`docs.redecivica.com.br`](https://docs.redecivica.com.br). AGPL-3.0.
 
