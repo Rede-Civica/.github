@@ -28,7 +28,8 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 - [Roadmap](https://github.com/Rede-Civica/.github/blob/main/ROADMAP.md)
 - [Suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md)
 - [Código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Segurança](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md)
+- [Segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md)
+- [Segurança da informação](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md)
 
 ## Como começar
 
@@ -40,6 +41,7 @@ O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro,
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Contribuir com código: os repositórios abrem quando os critérios de segurança estiverem fechados. A escada e o guia de suporte valem desde já.
 - Dúvidas e suporte: [issues da organização](https://github.com/Rede-Civica/.github/issues).
+- Convivência e relatos: [código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md) e [plano de segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md).
 - Vulnerabilidades: [`SECURITY.md`](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md).
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
 

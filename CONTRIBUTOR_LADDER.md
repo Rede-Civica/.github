@@ -30,7 +30,7 @@ O nível de direção não é recompensa por volume. Ele exige julgamento, dispo
 
 ## Trilha de comunidade
 
-A moderação é uma função paralela. O moderador não precisa ser mantenedor. Ele precisa conhecer o código de conduta, o plano de segurança da comunidade e os limites da categoria política.
+A moderação é uma função paralela. O moderador não precisa ser mantenedor. Ele precisa conhecer o [código de conduta](CODE_OF_CONDUCT.md), o [plano de segurança da comunidade](COMMUNITY_SAFETY.md) e os limites da categoria política.
 
 O moderador é indicado, participa de treinamento e atua com recusa por conflito de interesse. A função não dá poder de decisão sobre código ou rumo do projeto.
 
@@ -50,7 +50,7 @@ A candidatura pode ser feita pela própria pessoa. A indicação por um mantened
 - **Pausa.** A pessoa avisa um mantenedor. Não há penalização. A permissão é mantida por 90 dias.
 - **Inatividade.** Depois de 90 dias sem contribuição, review ou triagem, a pessoa entra em pausa em [MAINTAINERS.md](MAINTAINERS.md). Depois de 180 dias, passa a emérita e a permissão de escrita é reduzida para Read.
 - **Retorno.** Uma contribuição e a aprovação de um mantenedor restauram o nível anterior.
-- **Saída por conduta.** Segue o código de conduta e o plano de segurança da comunidade, com medidas proporcionais e direito de apelação.
+- **Saída por conduta.** Segue o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md), com medidas proporcionais e direito de apelação.
 - **Owner de continuidade.** A saída é decidida pelo fundador com os demais owners, com 2FA e registro público. A sucessão é definida antes da saída.
 - **Discordância.** Discordar da tese, do roadmap ou de uma decisão não é motivo de remoção.
 

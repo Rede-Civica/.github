@@ -19,6 +19,10 @@ Inclua no relato:
 
 Não inclua dado pessoal real, credencial ativa ou conteúdo de terceiros. Use dados de teste.
 
+## Interface com a segurança da comunidade
+
+Se o relato envolver ameaça, assédio, exposição de dados pessoais ou ataque coordenado, siga também o [plano de segurança da comunidade](COMMUNITY_SAFETY.md). Quando houver componente técnico, os dois fluxos correm em paralelo, com acesso restrito.
+
 ## Escopo
 
 Está no escopo:

@@ -34,14 +34,31 @@ Ainda não há revisores ou triagers nomeados. A escada define os critérios. Qu
 
 ## Moderadores de comunidade
 
-A moderação será nomeada com a abertura do espaço público. O papel é paralelo à escada. O moderador é indicado, participa de treinamento e segue o código de conduta e o plano de segurança da comunidade.
+A moderação será nomeada com a abertura do espaço público. O papel é paralelo à escada. O moderador é indicado, participa de treinamento e segue o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
+
+O moderador não decide caso de conduta. Ele contém o dano imediato no espaço, preserva evidência e encaminha o relato ao respondedor.
+
+## Respondedores de conduta
+
+O código de conduta tem dois postos de respondedor. O acesso ao caso fica restrito a eles. Conflito de interesse obriga à recusa.
+
+| Posto | Nome | GitHub | Disponibilidade | Contato |
+|---|---|---|---|---|
+| Respondedor 1 | Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Confirmação em até 3 dias úteis e emergência no mesmo dia | contato@redecivica.com.br |
+| Respondedor 2 | Vaga aberta | Não se aplica | A definir | contato@redecivica.com.br |
+
+Enquanto a segunda vaga estiver aberta, o fundador responde. Quando o fundador estiver envolvido no caso, um advisor externo de confiança decide. O parecer externo é registrado sem dado pessoal.
+
+O projeto busca a segunda pessoa para o posto. O critério é confiança, disponibilidade para conflito e compromisso com o sigilo. A nomeação entra nesta lista no mesmo pull request que registra o aceite.
+
+A primeira simulação de mesa do plano de segurança da comunidade acontece em até 30 dias após a nomeação do segundo respondedor. Depois, uma vez por ano.
 
 ## Disponibilidade e contato
 
 - Primeira resposta em issue ou pull request: até 2 dias úteis.
 - Revisão de código: semanal, salvo bloqueio declarado no pull request.
 - Segurança: canal privado em [SECURITY.md](SECURITY.md). Não abra issue pública.
-- Conduta: canal em [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). O relato é confidencial.
+- Conduta: canal em [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). O fluxo completo, com prazos, medidas provisórias e apelação, está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md). A confirmação sai em até 3 dias úteis e a decisão inicial em até 10 dias úteis.
 - Governança: issue com o título `Governança:` ou e-mail para contato@redecivica.com.br.
 
 ## Como a lista muda

@@ -10,7 +10,7 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 | Bug reproduzível | Issue com o template de bug | Passos, resultado esperado, resultado atual e ambiente |
 | Proposta de funcionalidade | Issue com o template de funcionalidade | Problema, proposta, alternativas e impacto |
 | Vulnerabilidade | [SECURITY.md](SECURITY.md) | Detalhes em canal privado, sem issue pública |
-| Conduta | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Relato confidencial por e-mail |
+| Conduta | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md) | Relato confidencial, prazos, medidas provisórias e apelação |
 | Governança | Issue com o título `Governança: <tema>` | Proposta, princípio afetado e alternativa |
 | Imprensa, parceria ou assunto institucional | contato@redecivica.com.br | Contexto e prazo |
 
@@ -22,7 +22,7 @@ As Discussões da organização abrem junto com o espaço público. Até lá, us
 
 - Primeira resposta humana em issue ou pull request: até 2 dias úteis.
 - Relato de segurança: confirmação em até 5 dias úteis. O fluxo completo está em [SECURITY.md](SECURITY.md).
-- Relato de conduta: confirmação em até 3 dias úteis. O canal e as regras atuais estão em [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- Relato de conduta: confirmação em até 3 dias úteis e decisão inicial em até 10 dias úteis. O fluxo completo está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
 - Revisão de pull request: primeira resposta em até 2 dias úteis. Se a revisão precisar de mais tempo, o mantenedor diz quando volta.
 - Não há prazo garantido para correção, merge ou release.
 
@@ -87,7 +87,7 @@ Toda contribuição segue o [CLA](CLA.md) e o código de conduta. A issue é o l
 
 A convivência segue o [código de conduta](CODE_OF_CONDUCT.md). Discordar da tese é legítimo. Assediar não é. A tese não é teste de lealdade para contribuir.
 
-O canal atual de relato é contato@redecivica.com.br. O relato é confidencial e tratado pelos responsáveis indicados no código de conduta.
+O canal atual de relato é contato@redecivica.com.br. O relato é confidencial e tratado pelos respondedores indicados no [código de conduta](CODE_OF_CONDUCT.md). O fluxo completo, com triagem, medidas provisórias, prazos e apelação, está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
 
 ## Como o suporte é mantido
 

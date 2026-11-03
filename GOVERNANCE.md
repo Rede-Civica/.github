@@ -46,7 +46,7 @@ Consenso preguiçoso é a regra de decisão sem votação. A proposta segue se n
 - Decisão substantiva: proposta pública de mudança com prazo de 14 dias. Duas aprovações de mantenedores ou revisores.
 - Decisão de princípio: proposta pública de mudança com prazo de 30 dias. Aprovação do fundador e consulta aos owners de continuidade.
 - Decisão de segurança: tratamento privado, com divulgação coordenada.
-- Decisão de conduta: fluxo próprio, definido no [código de conduta](CODE_OF_CONDUCT.md) e no plano de segurança da comunidade.
+- Decisão de conduta: fluxo próprio, definido no [código de conduta](CODE_OF_CONDUCT.md) e no [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
 
 Uma objeção é válida quando identifica risco concreto, princípio afetado ou custo relevante e propõe alternativa. Preferência pessoal não suspende a decisão. Quem decide registra a objeção e a resposta.
 
@@ -92,7 +92,7 @@ A pessoa em conflito se afasta do review, da decisão e da moderação. O afasta
 - **Decisão operacional.** Pedido de reconsideração ao mantenedor. Se persistir, o fundador decide.
 - **Decisão substantiva.** Revisão da proposta com evidência nova. O fundador decide depois de ouvir os owners de continuidade.
 - **Decisão de princípio.** Os owners de continuidade decidem por maioria. Quando não houver owners nomeados, o fundador decide com parecer externo. Depois da fundação, o conselho decide.
-- **Conduta.** O fluxo de apelação está no [código de conduta](CODE_OF_CONDUCT.md) e no plano de segurança da comunidade.
+- **Conduta.** O fluxo de apelação está no [código de conduta](CODE_OF_CONDUCT.md) e no [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
 - **Segurança.** Não há apelação pública. O caso segue a divulgação coordenada.
 
 ## Registro público de decisões
@@ -135,7 +135,7 @@ A constituição jurídica depende de recursos e de assessoria jurídica. O comp
 - Submeter mudanças de governança à revisão de duas pessoas.
 - Manter o registro público de decisões.
 - Responder a primeira mensagem em issue ou pull request em até 2 dias úteis.
-- Publicar relatório anual de conduta, com número de casos, tempo de resposta e medidas, sem identidade.
+- Publicar relatório anual de conduta, com número de casos, tempo de resposta e medidas, sem identidade. O formato está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
 - Publicar relatório mensal com contribuição, tempo de resposta e issues paradas quando a primeira medição existir.
 - Não incluir dado pessoal em métrica, relatório, issue ou discussão.
 - Não citar documento interno em arquivo público.
