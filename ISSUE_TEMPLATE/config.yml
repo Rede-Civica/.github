@@ -1,8 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Documentação conceitual
-    url: https://github.com/Rede-Civica/docs
-    about: Modelo conceitual, especificações e planos de implementação
-  - name: Segurança
-    url: https://github.com/Rede-Civica
-    about: Vulnerabilidades não são relatadas em issue aberta. Siga o SECURITY.md ou escreva para contato@redecivica.com.br
+  - name: Documentação
+    url: https://docs.redecivica.com.br
+    about: Livro, tutoriais, guias e referência
+  - name: Suporte
+    url: https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md
+    about: Onde perguntar, prazos e escopo
+  - name: Conduta
+    url: https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Convivência, relato confidencial e apelação
+  - name: Segurança da comunidade
+    url: https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md
+    about: Plano de incidente, prazos e medidas provisórias
+  - name: Segurança da informação
+    url: https://github.com/Rede-Civica/.github/blob/main/SECURITY.md
+    about: Vulnerabilidades não são relatadas em issue aberta
