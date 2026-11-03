@@ -1,0 +1,43 @@
+title: "[Governança] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use esta categoria para conversa preliminar sobre governança. Proposta pública de mudança (RFC) segue GOVERNANCE.md e entra como issue com o título `RFC: <tema>`. Discussões não substituem o registro de decisão.
+  - type: textarea
+    id: tema
+    attributes:
+      label: Tema
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: O que motivou a conversa e qual decisão ou princípio está em jogo.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta ou pergunta
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas consideradas
+  - type: input
+    id: rfc
+    attributes:
+      label: Issue relacionada
+      description: Se já existe uma proposta pública de mudança, informe o link.
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Li a governança e as regras das Discussões.
+          required: true
+        - label: Entendo que a decisão é registrada em issue ou pull request, não nesta discussão.
+          required: true

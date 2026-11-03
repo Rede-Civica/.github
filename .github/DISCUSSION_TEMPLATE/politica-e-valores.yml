@@ -1,0 +1,39 @@
+title: "[Política e valores] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Esta categoria discute a tese, os princípios e os limites do projeto. Discordar é legítimo. Assediar não é. Não publique dado pessoal, filiação partidária de terceiros ou chamado para ataque.
+  - type: textarea
+    id: tema
+    attributes:
+      label: Tema
+    validations:
+      required: true
+  - type: textarea
+    id: trecho
+    attributes:
+      label: Trecho ou princípio em discussão
+      description: Aponte a seção do livro, da governança ou do roadmap.
+  - type: textarea
+    id: argumento
+    attributes:
+      label: Argumento
+      description: Apresente o fato, a interpretação e a consequência.
+    validations:
+      required: true
+  - type: textarea
+    id: alternativa
+    attributes:
+      label: Alternativa ou pergunta
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Li o código de conduta e a regra de divergência política.
+          required: true
+        - label: Não estou publicando dado pessoal ou filiação de terceiros.
+          required: true
+        - label: Não estou mobilizando pessoas para atacar alguém ou uma instituição.
+          required: true

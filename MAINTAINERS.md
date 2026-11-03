@@ -34,9 +34,16 @@ Ainda não há revisores ou triagers nomeados. A escada define os critérios. Qu
 
 ## Moderadores de comunidade
 
-A moderação será nomeada com a abertura do espaço público. O papel é paralelo à escada. O moderador é indicado, participa de treinamento e segue o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
+A moderação das [Discussões](DISCUSSIONS.md) começa com o fundador como moderador interino. A segunda vaga está aberta. O papel é paralelo à escada. O moderador é indicado, participa de treinamento e segue o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
 
-O moderador não decide caso de conduta. Ele contém o dano imediato no espaço, preserva evidência e encaminha o relato ao respondedor.
+| Posto | Nome | GitHub | Disponibilidade | Contato |
+|---|---|---|---|---|
+| Moderador 1 | Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Primeira resposta em até 2 dias úteis e risco no mesmo dia | contato@redecivica.com.br |
+| Moderador 2 | Vaga aberta | Não se aplica | A definir | contato@redecivica.com.br |
+
+Enquanto a segunda vaga estiver aberta, o fundador modera. Quando o fundador estiver envolvido no tópico, um advisor externo decide a moderação. O moderador não decide caso de conduta. Ele contém o dano imediato no espaço, preserva evidência e encaminha o relato ao respondedor.
+
+A segunda vaga será preenchida depois do primeiro ciclo de participação pública, quando houver pessoa com um mês de participação, treinamento e indicação. A nomeação entra nesta lista no mesmo pull request que atualiza a permissão.
 
 ## Respondedores de conduta
 

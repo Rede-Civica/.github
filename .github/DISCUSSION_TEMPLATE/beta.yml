@@ -1,0 +1,51 @@
+title: "[Beta] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use esta categoria para relatos do grupo de teste. Não publique dado pessoal real. Use dados de teste e remova qualquer informação sensível da captura.
+  - type: textarea
+    id: jornada
+    attributes:
+      label: Jornada testada
+      description: Cadastro, captura, acompanhamento, conselheiro, moderação ou outra.
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que esperava
+    validations:
+      required: true
+  - type: textarea
+    id: aconteceu
+    attributes:
+      label: O que aconteceu
+      description: Passos, mensagem e comportamento observado.
+    validations:
+      required: true
+  - type: input
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: Aparelho, navegador, versão e data.
+  - type: dropdown
+    id: gravidade
+    attributes:
+      label: Gravidade percebida
+      options:
+        - Impede a tarefa
+        - Dificulta a tarefa
+        - Incômodo visual ou de texto
+        - Dúvida
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Usei dados de teste e não incluí dado pessoal real.
+          required: true
+        - label: Li as regras das Discussões e o código de conduta.
+          required: true

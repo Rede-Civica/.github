@@ -6,7 +6,7 @@ Este código vale para todos os espaços da Rede Cívica. Ele define a convivên
 
 Este código vale para:
 
-- repositórios, issues, pull requests, revisões, wikis e Discussões da organização;
+- repositórios, issues, pull requests, revisões, wikis e [Discussões](DISCUSSIONS.md) da organização;
 - chamadas de vídeo ou áudio, encontros abertos e reuniões;
 - e-mail, formulários e mensagens enviadas aos canais do projeto;
 - eventos presenciais ou on-line organizados pelo projeto;

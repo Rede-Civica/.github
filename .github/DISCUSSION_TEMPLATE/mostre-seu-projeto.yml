@@ -1,0 +1,45 @@
+title: "[Projeto] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este espaço é para projetos da comunidade que usam, estudam ou dialogam com a Rede Cívica. Não é um canal de propaganda.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do projeto
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Repositório, site ou publicação.
+    validations:
+      required: true
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que o projeto faz
+    validations:
+      required: true
+  - type: textarea
+    id: relacao
+    attributes:
+      label: Como se relaciona com a Rede Cívica
+      description: Uso, estudo, crítica, adaptação ou inspiração.
+    validations:
+      required: true
+  - type: input
+    id: licenca
+    attributes:
+      label: Licença
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Tenho autorização para publicar o link e o nome do projeto.
+          required: true
+        - label: Não incluí dado pessoal de terceiros.
+          required: true

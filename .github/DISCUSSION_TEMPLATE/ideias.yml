@@ -1,0 +1,38 @@
+title: "[Ideia] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Uma ideia por tópico. Descreva o problema antes da solução. Não abra um pull request em massa sem issue prévia.
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema
+      description: O que está faltando, confuso ou custoso hoje.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta
+      description: O que poderia existir e como funcionaria.
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas consideradas
+  - type: textarea
+    id: impacto
+    attributes:
+      label: Impacto esperado
+      description: Quem se beneficia, o que muda e o que pode piorar.
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Procurei uma ideia parecida antes de abrir.
+          required: true
+        - label: Li as regras das Discussões.
+          required: true

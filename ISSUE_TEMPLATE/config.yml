@@ -3,6 +3,9 @@ contact_links:
   - name: Documentação
     url: https://docs.redecivica.com.br
     about: Livro, tutoriais, guias e referência
+  - name: Discussões
+    url: https://github.com/Rede-Civica/.github/blob/main/DISCUSSIONS.md
+    about: Regras, categorias e como participar do espaço público
   - name: Suporte
     url: https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md
     about: Onde perguntar, prazos e escopo

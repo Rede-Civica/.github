@@ -30,7 +30,7 @@ O nível de direção não é recompensa por volume. Ele exige julgamento, dispo
 
 ## Trilha de comunidade
 
-A moderação é uma função paralela. O moderador não precisa ser mantenedor. Ele precisa conhecer o [código de conduta](CODE_OF_CONDUCT.md), o [plano de segurança da comunidade](COMMUNITY_SAFETY.md) e os limites da categoria política.
+A moderação é uma função paralela. O moderador não precisa ser mantenedor. Ele precisa conhecer o [código de conduta](CODE_OF_CONDUCT.md), o [plano de segurança da comunidade](COMMUNITY_SAFETY.md), as regras das [Discussões](DISCUSSIONS.md) e os limites da categoria política.
 
 O moderador é indicado, participa de treinamento e atua com recusa por conflito de interesse. A função não dá poder de decisão sobre código ou rumo do projeto.
 

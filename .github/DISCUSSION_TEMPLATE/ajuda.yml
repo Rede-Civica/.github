@@ -1,0 +1,45 @@
+title: "[Ajuda] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de abrir, procure uma discussão parecida. Traga contexto e não publique dado pessoal, credencial ou segredo.
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: O que você tentou fazer
+      description: Descreva o objetivo e o passo em que travou.
+      placeholder: "Exemplo: rodei o tutorial local e o comando falhou no passo 4."
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que esperava
+    validations:
+      required: true
+  - type: textarea
+    id: aconteceu
+    attributes:
+      label: O que aconteceu
+      description: Inclua a mensagem de erro completa, sem token, senha ou dado pessoal.
+    validations:
+      required: true
+  - type: input
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: Sistema, navegador ou runtime, versão e branch.
+  - type: textarea
+    id: tentativas
+    attributes:
+      label: O que já tentou
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Li o guia de suporte e as regras das Discussões.
+          required: true
+        - label: Não incluí dado pessoal, credencial ou segredo.
+          required: true

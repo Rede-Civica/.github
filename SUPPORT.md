@@ -6,7 +6,9 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 
 | Assunto | Canal | O que incluir |
 |---|---|---|
-| Dúvida de uso, instalação ou contribuição | Issue no repositório `.github`, com o template de pergunta | Versão, sistema, passo a passo e erro completo |
+| Dúvida de uso, instalação, contribuição ou documentação | [Discussões](DISCUSSIONS.md), categoria Ajuda | Versão, sistema, passo a passo e erro completo |
+| Conversa, ideia ou projeto da comunidade | [Discussões](DISCUSSIONS.md) | Categoria, contexto e o que já tentou |
+| Encontros mensais abertos | [ENCONTROS.md](ENCONTROS.md) | Pauta, condições e como participar |
 | Bug reproduzível | Issue com o template de bug | Passos, resultado esperado, resultado atual e ambiente |
 | Proposta de funcionalidade | Issue com o template de funcionalidade | Problema, proposta, alternativas e impacto |
 | Vulnerabilidade | [SECURITY.md](SECURITY.md) | Detalhes em canal privado, sem issue pública |
@@ -16,11 +18,11 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 
 As issues da organização ficam em [github.com/Rede-Civica/.github/issues](https://github.com/Rede-Civica/.github/issues). Use o template mais próximo do assunto.
 
-As Discussões da organização abrem junto com o espaço público. Até lá, use as issues para dúvidas e propostas.
+As Discussões são o espaço público para dúvidas, ideias e conversa. As regras e as categorias estão em [DISCUSSIONS.md](DISCUSSIONS.md). Issues ficam para bug reproduzível, proposta com escopo e trabalho que precisa de registro. O espaço abre antes do lançamento público.
 
 ## Prazos
 
-- Primeira resposta humana em issue ou pull request: até 2 dias úteis.
+- Primeira resposta humana em issue, discussão ou pull request: até 2 dias úteis.
 - Relato de segurança: confirmação em até 5 dias úteis. O fluxo completo está em [SECURITY.md](SECURITY.md).
 - Relato de conduta: confirmação em até 3 dias úteis e decisão inicial em até 10 dias úteis. O fluxo completo está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
 - Revisão de pull request: primeira resposta em até 2 dias úteis. Se a revisão precisar de mais tempo, o mantenedor diz quando volta.
@@ -70,7 +72,7 @@ Não é preciso escrever código para contribuir. Estas tarefas cabem em meia ho
 | Rodar o tutorial local e relatar o passo que falhou | 30 min | Siga o [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/) e abra uma issue |
 | Revisar uma página e apontar link quebrado ou erro de texto | 10 min | Abra uma issue com o endereço da página |
 | Reproduzir um bug aberto e acrescentar seu ambiente | 20 min | Comente na issue com sistema, navegador e passos |
-| Responder a dúvida de outra pessoa | 15 min | Responda na issue com o que funcionou para você |
+| Responder a dúvida de outra pessoa | 15 min | Responda na discussão ou issue com o que funcionou para você |
 | Testar o aplicativo no celular e relatar layout ou acessibilidade | 20 min | Abra uma issue com captura sem dado pessoal |
 | Apresentar o projeto a uma pessoa que trabalha com tecnologia cívica | 5 min | Envie o site [docs.redecivica.com.br](https://docs.redecivica.com.br) |
 
