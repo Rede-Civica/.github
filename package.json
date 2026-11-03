@@ -1,0 +1,24 @@
+{
+  "name": "rede-civica-org",
+  "version": "1.0.0",
+  "private": true,
+  "license": "AGPL-3.0",
+  "author": "Guilherme M. <contato@redecivica.com.br>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rede-Civica/.github.git"
+  },
+  "description": "Verificação de markdown e links dos arquivos públicos da organização Rede Cívica",
+  "engines": {
+    "node": ">=22.23.4 <23"
+  },
+  "scripts": {
+    "lint:markdown": "markdownlint-cli2 \"**/*.md\"",
+    "verificar:links": "markdown-link-check --config .markdown-link-check.json *.md profile/*.md ISSUE_TEMPLATE/*.md",
+    "verificar": "npm run lint:markdown && npm run verificar:links"
+  },
+  "devDependencies": {
+    "markdown-link-check": "~3.15.0",
+    "markdownlint-cli2": "~0.23.2"
+  }
+}

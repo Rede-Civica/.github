@@ -1,0 +1,15 @@
+{
+  "ignores": ["node_modules/**"],
+  "config": {
+    "default": false,
+    "MD011": true,
+    "MD037": true,
+    "MD039": true,
+    "MD042": true,
+    "MD047": true,
+    "MD048": true,
+    "MD055": true,
+    "MD056": true,
+    "MD057": true
+  }
+}
