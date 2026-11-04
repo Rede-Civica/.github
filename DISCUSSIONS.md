@@ -33,11 +33,11 @@ O espaço abre antes do lançamento público. O [código de conduta](CODE_OF_CON
 | Ajuda | `ajuda` | Pergunta e resposta | Dúvidas com contexto e passos. A resposta que resolve é marcada. | `ajuda.yml` |
 | Ideias | `ideias` | Discussão aberta | Uma ideia por tópico, com problema, proposta e impacto. | `ideias.yml` |
 | Mostre seu projeto | `mostre-seu-projeto` | Discussão aberta | Projetos da comunidade, com link, descrição e relação com a Rede Cívica. | `mostre-seu-projeto.yml` |
-| Governança | `governança` | Discussão aberta | Conversa preliminar sobre papéis, decisões e organização. | `governança.yml` |
-| Política e valores | `política-e-valores` | Discussão aberta | Debate da tese, dos princípios e dos limites do projeto. | `política-e-valores.yml` |
+| Governanca | `governanca` | Discussão aberta | Conversa preliminar sobre papéis, decisões e organização. | `governanca.yml` |
+| Politica e valores | `politica-e-valores` | Discussão aberta | Debate da tese, dos princípios e dos limites do projeto. | `politica-e-valores.yml` |
 | Beta | `beta` | Discussão aberta | Relato de jornada do grupo de teste, com dados de teste. | `beta.yml` |
 
-O identificador é o nome que o GitHub usa no endereço da categoria. O GitHub preserva acentos no identificador. Por isso, Anúncios, Governança e Política e valores aparecem com acento na URL. O arquivo do formulário precisa ter o mesmo identificador, inclusive o acento. Se o GitHub gerar um identificador diferente ao criar a categoria, renomeie o arquivo em `.github/DISCUSSION_TEMPLATE/`.
+O identificador é o nome que o GitHub usa no endereço da categoria. O GitHub preserva acentos no identificador, mas não carrega formulário de categoria com identificador acentuado. Por isso, as categorias com formulário usam título ASCII, como `Governanca` e `Politica e valores`; a descrição e os campos do formulário mantêm o português com acento. `Anúncios` não tem formulário e pode manter o acento. O arquivo do formulário precisa ter o mesmo identificador da categoria, sem acento. Se o GitHub gerar um identificador diferente ao criar a categoria, renomeie o arquivo em `.github/DISCUSSION_TEMPLATE/`.
 
 Os formatos aparecem em inglês na interface do GitHub: Announcement (comunicado), Question and answer (pergunta e resposta) e Open-ended discussion (discussão aberta).
 
