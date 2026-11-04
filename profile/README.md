@@ -34,6 +34,8 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 ## Comunidade
 
 - [Discussões](https://github.com/Rede-Civica/.github/discussions): espaço público de conversa. As regras e as categorias estão em [DISCUSSIONS.md](https://github.com/Rede-Civica/.github/blob/main/DISCUSSIONS.md).
+- [Guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md): do zero ao primeiro PR em um dia.
+- [Primeiras tarefas](https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): tarefas pequenas, com contexto, critério de aceite e mentor.
 - [Encontros mensais abertos](https://github.com/Rede-Civica/.github/blob/main/ENCONTROS.md): formato, pauta e notas. A primeira edição será marcada depois do lançamento público.
 - [Diário público de avanços](https://github.com/Rede-Civica/.github/blob/main/DEVLOG.md): resumo mensal do que foi entregue, travou e vem depois.
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
@@ -44,7 +46,7 @@ O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro,
 
 - Entender o modelo: [livro Rede Cívica](https://docs.redecivica.com.br/rede-civica/) e [`rede_civica.md`](https://github.com/Rede-Civica/docs/blob/master/rede_civica.md).
 - Rodar o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
-- Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
+- Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md), o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Contribuir com código: os repositórios abrem quando os critérios de segurança estiverem fechados. A escada e o guia de suporte valem desde já.
 - Dúvidas e suporte: [Discussões](https://github.com/Rede-Civica/.github/discussions) para conversa pública e [issues da organização](https://github.com/Rede-Civica/.github/issues) para bug ou proposta com escopo.

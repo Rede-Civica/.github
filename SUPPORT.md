@@ -7,6 +7,7 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 | Assunto | Canal | O que incluir |
 |---|---|---|
 | Dúvida de uso, instalação, contribuição ou documentação | [Discussões](https://github.com/Rede-Civica/.github/discussions), categoria Ajuda | Versão, sistema, passo a passo e erro completo |
+| Contribuição, primeiro PR e gates | [Guia de contribuição](CONTRIBUTOR_HANDBOOK.md) | Setup, fluxo, labels, CLA e revisão |
 | Conversa, ideia ou projeto da comunidade | [Discussões](https://github.com/Rede-Civica/.github/discussions) | Categoria, contexto e o que já tentou |
 | Encontros mensais abertos | [ENCONTROS.md](ENCONTROS.md) | Pauta, condições e como participar |
 | Bug reproduzível | Issue com o template de bug | Passos, resultado esperado, resultado atual e ambiente |
@@ -29,6 +30,20 @@ As [Discussões](https://github.com/Rede-Civica/.github/discussions) estão aber
 - Não há prazo garantido para correção, merge ou release.
 
 O prazo conta dias úteis, de segunda a sexta, no fuso de São Paulo. Feriados locais podem atrasar a resposta.
+
+## Triagem semanal
+
+A triagem acontece uma vez por semana, em 30 minutos, na segunda-feira. Feriados podem deslocar a triagem para o próximo dia útil.
+
+Na triagem, os mantenedores leem issues e pull requests novos, aplicam labels, respondem a primeira mensagem, pedem informação que falta, fecham duplicata com link para a original, indicam mentor nas tarefas de primeira contribuição e atualizam o roadmap quando a prioridade muda.
+
+O label `needs-triage` indica que a issue ainda não foi classificada. O label `mentor` indica que a tarefa tem uma pessoa mentora.
+
+## Pull request parado
+
+O pull request parado há 30 dias sem atividade recebe um comentário. Se continuar parado por 7 dias, pode ser fechado com uma nota. A pessoa pode reabrir quando retomar o trabalho.
+
+O label `blocked` indica que o pull request depende de outra mudança ou de uma decisão. O bloqueio é explicado em comentário.
 
 ## Versões suportadas
 
@@ -76,7 +91,7 @@ Não é preciso escrever código para contribuir. Estas tarefas cabem em meia ho
 | Testar o aplicativo no celular e relatar layout ou acessibilidade | 20 min | Abra uma issue com captura sem dado pessoal |
 | Apresentar o projeto a uma pessoa que trabalha com tecnologia cívica | 5 min | Envie o site [docs.redecivica.com.br](https://docs.redecivica.com.br) |
 
-Toda contribuição segue o [CLA](CLA.md) e o código de conduta. A issue é o lugar para alinhar o trabalho antes do pull request.
+Toda contribuição segue o [CLA](CLA.md) e o código de conduta. A issue é o lugar para alinhar o trabalho antes do pull request. O [guia de contribuição](CONTRIBUTOR_HANDBOOK.md) mostra o setup, o primeiro PR e os gates.
 
 ## Segurança e privacidade
 

@@ -43,7 +43,7 @@ A saúde da comunidade, aqui, significa acompanhar quem contribui, quanto tempo 
 |---|---|---|
 | Documentação | Revisar tutoriais, corrigir links e explicar passos confusos | [Como ajudar em 30 minutos](SUPPORT.md#como-ajudar-em-30-minutos) |
 | Testes | Reproduzir bugs e testar em aparelhos e navegadores | Issues da organização |
-| Código | API, web e inferência, quando os repositórios forem públicos | Issues marcadas como `good first issue` (boa primeira tarefa) |
+| Código | API, web e inferência, quando os repositórios forem públicos | [Issues marcadas como `good first issue`](https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) (boa primeira tarefa) |
 | Design e acessibilidade | Contraste, foco, leitor de tela e layout em celular | Issues da organização |
 | Comunidade | Boas-vindas, moderação e encontros mensais abertos | [Discussões](https://github.com/Rede-Civica/.github/discussions) |
 | Pesquisa | Parâmetros, dados públicos e metodologia | contato@redecivica.com.br |

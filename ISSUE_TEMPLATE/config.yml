@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Guia de contribuição
+    url: https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md
+    about: Do zero ao primeiro PR em um dia, com setup, gates, revisão e CLA
+  - name: Primeiras tarefas
+    url: https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+    about: Issues pequenas, com contexto, critério de aceite e mentor
   - name: Documentação
     url: https://docs.redecivica.com.br
     about: Livro, tutoriais, guias e referência
@@ -18,3 +24,6 @@ contact_links:
   - name: Segurança da informação
     url: https://github.com/Rede-Civica/.github/blob/main/SECURITY.md
     about: Vulnerabilidades não são relatadas em issue aberta
+  - name: Uso de IA
+    url: https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md#uso-de-ia
+    about: Como declarar contribuição assistida por IA. A política completa será publicada antes do lançamento

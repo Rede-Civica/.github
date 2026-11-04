@@ -142,14 +142,15 @@ Corpo:
 > - Rode o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
 > - Veja quem decide e como: [governança](https://github.com/Rede-Civica/.github/blob/main/GOVERNANCE.md) e [mantenedores](https://github.com/Rede-Civica/.github/blob/main/MAINTAINERS.md).
 > - Veja como subir na escada: [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md).
+> - Leia o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e veja as [primeiras tarefas](https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 > - Veja o que vem: [roadmap](https://github.com/Rede-Civica/.github/blob/main/ROADMAP.md).
 > - Saiba como pedir ajuda e os prazos: [suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
 > - Conheça as regras de convivência: [código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md) e [segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md).
 > - Contribua em 30 minutos: [como ajudar](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
 >
-> **Ainda em preparação**
+> **Primeiras tarefas e política de IA**
 >
-> A política de IA e a lista de primeiras tarefas (`good first issue`, boa primeira tarefa) serão publicadas antes do lançamento público. Enquanto isso, use a categoria Ajuda para dúvidas e a categoria Ideias para propostas.
+> A lista de primeiras tarefas reúne issues com o label `good first issue` (boa primeira tarefa). Cada tarefa tem contexto, critério de aceite, arquivos prováveis, tempo estimado e mentor. A política de IA será publicada antes do lançamento público. Enquanto isso, use a categoria Ajuda para dúvidas e a categoria Ideias para propostas.
 >
 > **Como usar**
 >
