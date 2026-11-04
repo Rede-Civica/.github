@@ -39,6 +39,7 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 - [Primeiras tarefas](https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): tarefas pequenas, com contexto, critério de aceite e mentor.
 - [Encontros mensais abertos](https://github.com/Rede-Civica/.github/blob/main/ENCONTROS.md): formato, pauta e notas. A primeira edição será marcada depois do lançamento público.
 - [Diário público de avanços](https://github.com/Rede-Civica/.github/blob/main/DEVLOG.md): resumo mensal do que foi entregue, travou e vem depois.
+- [Métricas de saúde](https://github.com/Rede-Civica/.github/blob/main/METRICS.md): primeira medição, definições, metas e relatório mensal.
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
 
 ## Como usamos IA
