@@ -6,8 +6,8 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 
 | Assunto | Canal | O que incluir |
 |---|---|---|
-| Dúvida de uso, instalação, contribuição ou documentação | [Discussões](DISCUSSIONS.md), categoria Ajuda | Versão, sistema, passo a passo e erro completo |
-| Conversa, ideia ou projeto da comunidade | [Discussões](DISCUSSIONS.md) | Categoria, contexto e o que já tentou |
+| Dúvida de uso, instalação, contribuição ou documentação | [Discussões](https://github.com/Rede-Civica/.github/discussions), categoria Ajuda | Versão, sistema, passo a passo e erro completo |
+| Conversa, ideia ou projeto da comunidade | [Discussões](https://github.com/Rede-Civica/.github/discussions) | Categoria, contexto e o que já tentou |
 | Encontros mensais abertos | [ENCONTROS.md](ENCONTROS.md) | Pauta, condições e como participar |
 | Bug reproduzível | Issue com o template de bug | Passos, resultado esperado, resultado atual e ambiente |
 | Proposta de funcionalidade | Issue com o template de funcionalidade | Problema, proposta, alternativas e impacto |
@@ -18,7 +18,7 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 
 As issues da organização ficam em [github.com/Rede-Civica/.github/issues](https://github.com/Rede-Civica/.github/issues). Use o template mais próximo do assunto.
 
-As Discussões são o espaço público para dúvidas, ideias e conversa. As regras e as categorias estão em [DISCUSSIONS.md](DISCUSSIONS.md). Issues ficam para bug reproduzível, proposta com escopo e trabalho que precisa de registro. O espaço abre antes do lançamento público.
+As [Discussões](https://github.com/Rede-Civica/.github/discussions) estão abertas e são o espaço público para dúvidas, ideias e conversa. As regras e as categorias estão em [DISCUSSIONS.md](DISCUSSIONS.md). Issues ficam para bug reproduzível, proposta com escopo e trabalho que precisa de registro.
 
 ## Prazos
 

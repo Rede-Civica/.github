@@ -33,7 +33,7 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 
 ## Comunidade
 
-- [Discussões](https://github.com/Rede-Civica/.github/blob/main/DISCUSSIONS.md): regras, categorias e como participar do espaço público.
+- [Discussões](https://github.com/Rede-Civica/.github/discussions): espaço público de conversa. As regras e as categorias estão em [DISCUSSIONS.md](https://github.com/Rede-Civica/.github/blob/main/DISCUSSIONS.md).
 - [Encontros mensais abertos](https://github.com/Rede-Civica/.github/blob/main/ENCONTROS.md): formato, pauta e notas. A primeira edição será marcada depois do lançamento público.
 - [Diário público de avanços](https://github.com/Rede-Civica/.github/blob/main/DEVLOG.md): resumo mensal do que foi entregue, travou e vem depois.
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
@@ -47,7 +47,7 @@ O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro,
 - Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Contribuir com código: os repositórios abrem quando os critérios de segurança estiverem fechados. A escada e o guia de suporte valem desde já.
-- Dúvidas e suporte: [Discussões](https://github.com/Rede-Civica/.github/blob/main/DISCUSSIONS.md) para conversa pública e [issues da organização](https://github.com/Rede-Civica/.github/issues) para bug ou proposta com escopo.
+- Dúvidas e suporte: [Discussões](https://github.com/Rede-Civica/.github/discussions) para conversa pública e [issues da organização](https://github.com/Rede-Civica/.github/issues) para bug ou proposta com escopo.
 - Convivência e relatos: [código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md) e [plano de segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md).
 - Vulnerabilidades: [`SECURITY.md`](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md).
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
