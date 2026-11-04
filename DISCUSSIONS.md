@@ -29,15 +29,15 @@ O espaço abre antes do lançamento público. O [código de conduta](CODE_OF_CON
 
 | Categoria | Identificador | Formato | O que publicar | Formulário |
 |---|---|---|---|---|
-| Anúncios | `anuncios` | Comunicado | Comunicados oficiais, marcos e notas. Só mantenedores e moderadores abrem. | Sem formulário |
+| Anúncios | `anúncios` | Comunicado | Comunicados oficiais, marcos e notas. Só mantenedores e moderadores abrem. | Sem formulário |
 | Ajuda | `ajuda` | Pergunta e resposta | Dúvidas com contexto e passos. A resposta que resolve é marcada. | `ajuda.yml` |
 | Ideias | `ideias` | Discussão aberta | Uma ideia por tópico, com problema, proposta e impacto. | `ideias.yml` |
 | Mostre seu projeto | `mostre-seu-projeto` | Discussão aberta | Projetos da comunidade, com link, descrição e relação com a Rede Cívica. | `mostre-seu-projeto.yml` |
-| Governança | `governanca` | Discussão aberta | Conversa preliminar sobre papéis, decisões e organização. | `governanca.yml` |
-| Política e valores | `politica-e-valores` | Discussão aberta | Debate da tese, dos princípios e dos limites do projeto. | `politica-e-valores.yml` |
+| Governança | `governança` | Discussão aberta | Conversa preliminar sobre papéis, decisões e organização. | `governança.yml` |
+| Política e valores | `política-e-valores` | Discussão aberta | Debate da tese, dos princípios e dos limites do projeto. | `política-e-valores.yml` |
 | Beta | `beta` | Discussão aberta | Relato de jornada do grupo de teste, com dados de teste. | `beta.yml` |
 
-O identificador é o nome que o GitHub usa no endereço da categoria. O formulário precisa ter o mesmo identificador. Se o GitHub gerar um identificador diferente ao criar a categoria, renomeie o arquivo em `.github/DISCUSSION_TEMPLATE/`.
+O identificador é o nome que o GitHub usa no endereço da categoria. O GitHub preserva acentos no identificador. Por isso, Anúncios, Governança e Política e valores aparecem com acento na URL. O arquivo do formulário precisa ter o mesmo identificador, inclusive o acento. Se o GitHub gerar um identificador diferente ao criar a categoria, renomeie o arquivo em `.github/DISCUSSION_TEMPLATE/`.
 
 Os formatos aparecem em inglês na interface do GitHub: Announcement (comunicado), Question and answer (pergunta e resposta) e Open-ended discussion (discussão aberta).
 
