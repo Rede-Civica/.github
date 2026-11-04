@@ -182,9 +182,11 @@ O CLA é o [Acordo de Licença de Contribuição](CLA.md). Ele permite que o pro
 
 **Pessoa jurídica.** A Parte II do CLA vale para quem contribui em nome de uma empresa ou entidade. A entidade informa as pessoas autorizadas por e-mail para contato@redecivica.com.br.
 
-**Uso de IA.** A pessoa que assina o CLA responde pelo conteúdo, com ou sem assistência de ferramenta. Declare o uso de IA no pull request. A política de IA será publicada antes do lançamento.
+**Uso de IA.** A pessoa que assina o CLA responde pelo conteúdo, com ou sem assistência de ferramenta. Declare o uso de IA no pull request. A política completa está em [AI_POLICY.md](AI_POLICY.md).
 
 ## Uso de IA
+
+A política completa está em [AI_POLICY.md](AI_POLICY.md). Resumo:
 
 - Declare no pull request quando usar IA para código, texto, teste, imagem ou revisão.
 - Diga quais partes foram assistidas e qual ferramenta foi usada.
@@ -192,7 +194,7 @@ O CLA é o [Acordo de Licença de Contribuição](CLA.md). Ele permite que o pro
 - Não use IA para abrir ou mergear pull request de forma autônoma.
 - Não envie texto legal, conceitual ou de governança gerado por IA sem revisão humana.
 - Não use IA para reproduzir obra de terceiros sem licença.
-- Erro de modelo tem canal de feedback nas Discussões. A política completa será publicada antes do lançamento.
+- Erro de modelo tem canal de feedback na categoria Feedback de modelo das Discussões.
 
 ## Labels
 

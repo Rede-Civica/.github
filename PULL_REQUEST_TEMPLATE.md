@@ -8,7 +8,13 @@ Fixe a issue com `Fixes #<número>` ou link direto.
 
 ## Uso de IA
 
-Se você usou IA, diga quais partes foram assistidas e qual ferramenta foi usada. Se não usou, escreva "Não usei".
+Declare o uso de IA generativa conforme a [política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md).
+
+- Ferramenta:
+- Quais partes:
+- O que foi revisado por uma pessoa:
+
+Se não usou, escreva "Não usei".
 
 ## Checklist
 
@@ -17,7 +23,7 @@ Se você usou IA, diga quais partes foram assistidas e qual ferramenta foi usada
 - [ ] Li e sigo o [código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md)
 - [ ] Não uso este PR para relatar conduta; relatos seguem o [canal privado](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md#como-relatar)
 - [ ] Confirmo que tenho direito de enviar esta contribuição e que ela não contém obra de terceiros sem licença
-- [ ] Declarei o uso de IA neste PR. A política de IA será publicada antes do lançamento
+- [ ] Declarei o uso de IA neste PR, com ferramenta e partes assistidas, ou registrei "Não usei" na seção de uso de IA
 - [ ] Commits em Conventional Commits, em português
 - [ ] Aceite do CLA registrado no pull request
 - [ ] Gates do repositório passando, conforme a tabela do guia de contribuição
