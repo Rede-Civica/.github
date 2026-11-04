@@ -1,0 +1,73 @@
+title: "[Feedback de modelo] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use esta categoria para relatar erro, viés, falso positivo, falso negativo ou resumo alucinado de modelo. Use dados de teste. Não publique dado pessoal, mídia de terceiros, credencial ou conteúdo confidencial.
+  - type: dropdown
+    id: tarefa
+    attributes:
+      label: Tarefa do modelo
+      options:
+        - Classificação NSFW
+        - Detecção de pessoa
+        - Descrição de imagem
+        - Transcrição de áudio
+        - Tradução
+        - Resumo de legenda
+        - Texto assistido
+        - Triagem de moderação
+        - Outra
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Falso positivo
+        - Falso negativo
+        - Resumo alucinado
+        - Viés
+        - Erro de classificação
+        - Erro de transcrição ou tradução
+        - Outro
+    validations:
+      required: true
+  - type: input
+    id: modelo
+    attributes:
+      label: Modelo e versão
+      description: Se souber, informe o nome e a versão. Não inclua token, credencial ou dado pessoal.
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: textarea
+    id: observado
+    attributes:
+      label: Resultado observado
+      description: Descreva o que o modelo devolveu. Não cole dado pessoal nem conteúdo de terceiros.
+    validations:
+      required: true
+  - type: textarea
+    id: impacto
+    attributes:
+      label: Impacto
+      description: O erro bloqueou, atrasou ou prejudicou alguma pessoa? Explique.
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidência de teste
+      description: Use dados de teste. Não anexe mídia de terceiros, dado pessoal, credencial ou conteúdo confidencial.
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: Confirmações
+      options:
+        - label: Não incluí dado pessoal, credencial, segredo ou mídia de terceiros.
+          required: true
+        - label: Li a política de IA e as regras das Discussões.
+          required: true

@@ -19,6 +19,7 @@ O espaço abre antes do lançamento público. O [código de conduta](CODE_OF_CON
 ## Para que não servem
 
 - Bug reproduzível com passos e ambiente. Use o template de bug nas issues.
+- Erro, viés ou falso positivo de modelo. Use a categoria Feedback de modelo, com dados de teste e sem dado pessoal.
 - Vulnerabilidade de segurança. Use o canal privado de [SECURITY.md](SECURITY.md).
 - Relato de conduta. Use o canal privado de [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Proposta pública de mudança (RFC). Abra uma issue com o título `RFC: <tema>`, conforme [GOVERNANCE.md](GOVERNANCE.md).
@@ -36,6 +37,7 @@ O espaço abre antes do lançamento público. O [código de conduta](CODE_OF_CON
 | Governanca | `governanca` | Discussão aberta | Conversa preliminar sobre papéis, decisões e organização. | `governanca.yml` |
 | Politica e valores | `politica-e-valores` | Discussão aberta | Debate da tese, dos princípios e dos limites do projeto. | `politica-e-valores.yml` |
 | Beta | `beta` | Discussão aberta | Relato de jornada do grupo de teste, com dados de teste. | `beta.yml` |
+| Feedback de modelo | `feedback-de-modelo` | Discussão aberta | Erro, viés, falso positivo ou resumo alucinado de modelo, com dados de teste. | `feedback-de-modelo.yml` |
 
 O identificador é o nome que o GitHub usa no endereço da categoria. O GitHub preserva acentos no identificador, mas não carrega formulário de categoria com identificador acentuado. Por isso, as categorias com formulário usam título ASCII, como `Governanca` e `Politica e valores`; a descrição e os campos do formulário mantêm o português com acento. `Anúncios` não tem formulário e pode manter o acento. O arquivo do formulário precisa ter o mesmo identificador da categoria, sem acento. Se o GitHub gerar um identificador diferente ao criar a categoria, renomeie o arquivo em `.github/DISCUSSION_TEMPLATE/`.
 
@@ -60,7 +62,7 @@ Os formatos aparecem em inglês na interface do GitHub: Announcement (comunicado
 5. **Sem spam.** Não repita a mesma mensagem, não abra tópicos iguais e não marque pessoas sem necessidade.
 6. **Sem assédio.** Persistência depois de um pedido de parada é assédio. Ameaça, discriminação, doxxing (exposição de dados pessoais) e ataque coordenado são violação.
 7. **Sem PR em massa.** Não abra vários pull requests sem issue prévia e sem alinhamento.
-8. **Declare IA.** Texto, código ou imagem produzidos com IA seguem a política de IA do projeto, quando publicada. A pessoa que assina o CLA responde pelo conteúdo.
+8. **Declare IA.** Texto, código ou imagem produzidos com IA seguem a [política de IA](AI_POLICY.md). A pessoa que assina o CLA responde pelo conteúdo.
 9. **Respeite a moderação.** Medida de moderação se cumpre enquanto estiver vigente. A discordância segue a apelação, não a retaliação.
 10. **A tese não é teste de lealdade.** Discordar da tese é legítimo. Ninguém precisa concordar com ela para participar de boa-fé.
 
@@ -144,13 +146,14 @@ Corpo:
 > - Veja como subir na escada: [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md).
 > - Leia o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e veja as [primeiras tarefas](https://github.com/Rede-Civica/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 > - Veja o que vem: [roadmap](https://github.com/Rede-Civica/.github/blob/main/ROADMAP.md).
+> - Saiba como usamos IA e como declarar: [política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md).
 > - Saiba como pedir ajuda e os prazos: [suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
 > - Conheça as regras de convivência: [código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md) e [segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md).
 > - Contribua em 30 minutos: [como ajudar](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
 >
 > **Primeiras tarefas e política de IA**
 >
-> A lista de primeiras tarefas reúne issues com o label `good first issue` (boa primeira tarefa). Cada tarefa tem contexto, critério de aceite, arquivos prováveis, tempo estimado e mentor. A política de IA será publicada antes do lançamento público. Enquanto isso, use a categoria Ajuda para dúvidas e a categoria Ideias para propostas.
+> A lista de primeiras tarefas reúne issues com o label `good first issue` (boa primeira tarefa). Cada tarefa tem contexto, critério de aceite, arquivos prováveis, tempo estimado e mentor. A [política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md) explica declaração, responsabilidade humana, agentes autônomos e uso de IA no produto. Erro, viés ou falso positivo de modelo tem canal na categoria Feedback de modelo. Use dados de teste e não publique dado pessoal.
 >
 > **Como usar**
 >
@@ -184,6 +187,7 @@ Corpo:
 - [Código de conduta](CODE_OF_CONDUCT.md)
 - [Segurança da comunidade](COMMUNITY_SAFETY.md)
 - [Suporte](SUPPORT.md)
+- [Política de IA](AI_POLICY.md)
 - [Encontros mensais abertos](ENCONTROS.md)
 - [Diário público de avanços](DEVLOG.md)
 - [Como ajudar em 30 minutos](SUPPORT.md#como-ajudar-em-30-minutos)
