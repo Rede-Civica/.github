@@ -25,7 +25,7 @@ O código também alcança comportamento fora dos espaços do projeto quando ele
 4. **Respeite privacidade e consentimento.** Não publique dado pessoal, mensagem privada, captura de tela ou gravação sem autorização de quem aparece.
 5. **Respeite limites.** Quando alguém pede para encerrar uma conversa ou um contato, pare. Persistência depois do pedido é assédio.
 6. **Declare conflito de interesse.** Interesse comercial, vínculo empregatício, relação familiar, disputa pessoal e participação no caso afastam a pessoa da decisão.
-7. **Declare uso de IA quando a política exigir.** A pessoa que assina o CLA responde pelo conteúdo, com ou sem assistência de ferramenta.
+7. **Declare uso de IA.** Siga a [política de IA](AI_POLICY.md). A pessoa que assina o CLA responde pelo conteúdo, com ou sem assistência de ferramenta.
 8. **Aceite a moderação e use a apelação.** Medida de moderação se cumpre enquanto estiver vigente. A discordância segue o canal de apelação, não a retaliação.
 9. **Repare o erro.** Correção pública e pedido de desculpa são bem-vindos. Reincidência não é.
 

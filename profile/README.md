@@ -29,6 +29,7 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 - [Suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md)
 - [Código de conduta](https://github.com/Rede-Civica/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Segurança da comunidade](https://github.com/Rede-Civica/.github/blob/main/COMMUNITY_SAFETY.md)
+- [Política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md)
 - [Segurança da informação](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md)
 
 ## Comunidade
@@ -39,6 +40,13 @@ A decisão final é do fundador até a constituição da fundação. A governan�
 - [Encontros mensais abertos](https://github.com/Rede-Civica/.github/blob/main/ENCONTROS.md): formato, pauta e notas. A primeira edição será marcada depois do lançamento público.
 - [Diário público de avanços](https://github.com/Rede-Civica/.github/blob/main/DEVLOG.md): resumo mensal do que foi entregue, travou e vem depois.
 - [Como ajudar em 30 minutos](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md#como-ajudar-em-30-minutos).
+
+## Como usamos IA
+
+A IA reduz atrito e não decide. Todo resultado automático é marcado, versionado e rastreável. A pessoa humana responde pelo conteúdo. Agentes autônomos não abrem nem mergeiam pull request.
+
+- [Política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md): declaração, responsabilidade humana, moderação e uso no produto.
+- [Feedback de modelo](https://github.com/Rede-Civica/.github/discussions): erro, viés, falso positivo ou resumo alucinado, com dados de teste. Use a categoria Feedback de modelo.
 
 ## Como começar
 

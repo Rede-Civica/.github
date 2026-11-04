@@ -9,6 +9,8 @@ Este documento diz onde perguntar, onde reportar cada tipo de problema e o que e
 | Dúvida de uso, instalação, contribuição ou documentação | [Discussões](https://github.com/Rede-Civica/.github/discussions), categoria Ajuda | Versão, sistema, passo a passo e erro completo |
 | Contribuição, primeiro PR e gates | [Guia de contribuição](CONTRIBUTOR_HANDBOOK.md) | Setup, fluxo, labels, CLA e revisão |
 | Conversa, ideia ou projeto da comunidade | [Discussões](https://github.com/Rede-Civica/.github/discussions) | Categoria, contexto e o que já tentou |
+| Erro, viés ou falso positivo de modelo | [Discussões](https://github.com/Rede-Civica/.github/discussions), categoria Feedback de modelo | Tarefa, modelo e versão, resultado esperado, resultado observado e dados de teste |
+| Revisão de decisão de moderação de conteúdo | contato@redecivica.com.br, assunto `Moderação de conteúdo` | Link do conteúdo, decisão e motivo da contestação. Não inclua dado pessoal |
 | Encontros mensais abertos | [ENCONTROS.md](ENCONTROS.md) | Pauta, condições e como participar |
 | Bug reproduzível | Issue com o template de bug | Passos, resultado esperado, resultado atual e ambiente |
 | Proposta de funcionalidade | Issue com o template de funcionalidade | Problema, proposta, alternativas e impacto |
@@ -21,11 +23,14 @@ As issues da organização ficam em [github.com/Rede-Civica/.github/issues](http
 
 As [Discussões](https://github.com/Rede-Civica/.github/discussions) estão abertas e são o espaço público para dúvidas, ideias e conversa. As regras e as categorias estão em [DISCUSSIONS.md](DISCUSSIONS.md). Issues ficam para bug reproduzível, proposta com escopo e trabalho que precisa de registro.
 
+A [política de IA](AI_POLICY.md) explica como o projeto usa IA, como declarar o uso e como funciona a contestação. Erro de modelo tem canal na categoria Feedback de modelo. Não publique dado pessoal, mídia de terceiros ou credencial.
+
 ## Prazos
 
 - Primeira resposta humana em issue, discussão ou pull request: até 2 dias úteis.
 - Relato de segurança: confirmação em até 5 dias úteis. O fluxo completo está em [SECURITY.md](SECURITY.md).
 - Relato de conduta: confirmação em até 3 dias úteis e decisão inicial em até 10 dias úteis. O fluxo completo está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
+- Feedback de modelo: primeira resposta humana em até 2 dias úteis. A triagem pode abrir uma issue ou uma correção, sem prazo garantido.
 - Revisão de pull request: primeira resposta em até 2 dias úteis. Se a revisão precisar de mais tempo, o mantenedor diz quando volta.
 - Não há prazo garantido para correção, merge ou release.
 
@@ -63,6 +68,7 @@ O suporte cobre:
 - Tutoriais, guias, referências e documentação.
 - Fluxo de contribuição, CLA, gates e revisão.
 - Bug reproduzível e proposta de funcionalidade.
+- Erro, viés ou falso positivo de modelo, pelo canal de feedback.
 - Acessibilidade e experiência em navegador ou celular.
 - Vulnerabilidade de segurança, pelo canal privado.
 

@@ -13,7 +13,7 @@ O foco é fechar a base pública do projeto e preparar o beta aberto.
 - Revisar e reforçar a segurança do aplicativo e da infraestrutura.
 - Publicar os planos institucionais iniciais da Gestão e da Fundação.
 - Criar o documento-modelo de pesquisa e parâmetros.
-- Publicar a governança, o código de conduta, a política de IA e o guia de contribuição.
+- Manter a governança, o código de conduta, a política de IA e o guia de contribuição atualizados.
 - Abrir o espaço público de conversa, os encontros mensais abertos para dúvidas e um diário público mensal com avanços e bloqueios.
 - Publicar a primeira medição da saúde da comunidade e o primeiro relatório com os números e o que eles mostram.
 - Preparar o beta aberto com convidados e comunidades de software.
@@ -53,7 +53,7 @@ A saúde da comunidade, aqui, significa acompanhar quem contribui, quanto tempo 
 
 - Não prometer data de produção nem versão pública `1.0.0` antes dos critérios.
 - Não abrir dados pessoais, telemetria individual ou identidade de participantes.
-- Não usar IA para decidir, priorizar ou publicar sem revisão humana.
+- Não usar IA para decidir prioridade, moderar conteúdo ou substituir a decisão humana. A categorização automática acima do limiar publica com marcação e contestação imediata.
 - Não operar como canal oficial do poder público.
 - Não trocar o acordo de contribuição (CLA) pela declaração de origem por commit (DCO) nesta etapa.
 - Não manter tradução para inglês ou espanhol nesta etapa.

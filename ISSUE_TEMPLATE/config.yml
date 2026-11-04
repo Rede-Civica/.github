@@ -24,6 +24,9 @@ contact_links:
   - name: Segurança da informação
     url: https://github.com/Rede-Civica/.github/blob/main/SECURITY.md
     about: Vulnerabilidades não são relatadas em issue aberta
-  - name: Uso de IA
-    url: https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md#uso-de-ia
-    about: Como declarar contribuição assistida por IA. A política completa será publicada antes do lançamento
+  - name: Política de IA
+    url: https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md
+    about: Declaração, responsabilidade humana, agentes autônomos e uso de IA no produto
+  - name: Feedback de modelo
+    url: https://github.com/Rede-Civica/.github/discussions
+    about: Erro, viés ou falso positivo de modelo. Use a categoria Feedback de modelo e não inclua dado pessoal
