@@ -5,6 +5,7 @@
   "aliveStatusCodes": [200, 206, 403, 429],
   "ignorePatterns": [
     { "pattern": "^https://github\\.com/Rede-Civica/(mvp-api|mvp-web|mvp-inferencia|mvp-docs|docs)([/#]|$)" },
+    { "pattern": "^https://github\\.com/Rede-Civica/\\.github/blob/main/SOCIAL_CHARTER\\.md$" },
     { "pattern": "^https://www\\.gnu\\.org/licenses/agpl-3\\.0\\.html$" }
   ]
 }
