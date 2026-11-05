@@ -8,6 +8,8 @@ Este arquivo vale para todos os repositórios da organização. Ele define como 
 2. Alternativa: e-mail para contato@redecivica.com.br, com o assunto `Segurança`.
 3. Não abra issue pública com detalhe de exploração.
 
+O site publica o mesmo contato em [`/.well-known/security.txt`](https://docs.redecivica.com.br/.well-known/security.txt), no formato definido pela RFC 9116.
+
 Inclua no relato:
 
 - Componente e versão afetada.
