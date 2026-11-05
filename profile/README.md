@@ -55,8 +55,10 @@ O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro,
 
 - Entender o modelo: [livro Rede Cívica](https://docs.redecivica.com.br/rede-civica/) e [`rede_civica.md`](https://github.com/Rede-Civica/docs/blob/master/rede_civica.md).
 - Mapa do código: [ARCHITECTURE.md](https://github.com/Rede-Civica/.github/blob/main/ARCHITECTURE.md): repositórios, fluxo de eventos e onde mexer.
+- Entender dados e modelos: [mapa de dados](https://github.com/Rede-Civica/.github/blob/main/DATA.md) e [fichas de modelo](https://github.com/Rede-Civica/.github/blob/main/MODELS.md).
 - Rodar o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
 - Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md), o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
+- Antes de contribuir: [triagem](https://github.com/Rede-Civica/.github/blob/main/TRIAGE.md), com prazos e labels, e [FAQ do CLA](https://github.com/Rede-Civica/.github/blob/main/CLA_FAQ.md), com o que o aceite concede e o que você mantém.
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Contribuir com código: os repositórios abrem quando os critérios de segurança estiverem fechados. A escada e o guia de suporte valem desde já.
 - Dúvidas e suporte: [Discussões](https://github.com/Rede-Civica/.github/discussions) para conversa pública e [issues da organização](https://github.com/Rede-Civica/.github/issues) para bug ou proposta com escopo.
