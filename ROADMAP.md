@@ -14,6 +14,7 @@ O foco é fechar a base pública do projeto e preparar o beta aberto.
 - Publicar os planos institucionais iniciais da Gestão e da Fundação.
 - Criar o documento-modelo de pesquisa e parâmetros.
 - Manter a governança, o código de conduta, a política de IA e o guia de contribuição atualizados.
+- Nomear os primeiros owners de continuidade e um segundo mantenedor ativo antes do beta.
 - Abrir o espaço público de conversa, os encontros mensais abertos para dúvidas e um diário público mensal com avanços e bloqueios.
 - Publicar a primeira medição da saúde da comunidade e o primeiro relatório com os números e o que eles mostram.
 - Preparar o beta aberto com convidados e comunidades de software.
