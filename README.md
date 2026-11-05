@@ -29,11 +29,14 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 | [`SECURITY.md`](SECURITY.md) | Canal, escopo, prazos e divulgação coordenada de vulnerabilidades. |
 | [`CONTRIBUTOR_HANDBOOK.md`](CONTRIBUTOR_HANDBOOK.md) | Setup, primeiro pull request, gates, revisão e CLA em linguagem simples. |
 | [`TRIAGE.md`](TRIAGE.md) | Papéis, prazos, labels e critérios de triagem. |
+| [`DATA.md`](DATA.md) | Classes de dados, licenças, exposição e limites de uso. |
+| [`MODELS.md`](MODELS.md) | Fichas de modelo, licenças, runtime, hardware e limites. |
 | [`DISCUSSIONS.md`](DISCUSSIONS.md) | Categorias, regras e moderação das Discussões. |
 | [`ENCONTROS.md`](ENCONTROS.md) | Formato, pauta e notas dos encontros mensais abertos. |
 | [`DEVLOG.md`](DEVLOG.md) | Modelo do diário público de avanços. |
 | [`METRICS.md`](METRICS.md) | Definições, primeira medição, metas e relatório mensal de saúde da comunidade. |
 | [`CLA.md`](CLA.md) | Acordo de Licença de Contribuição. |
+| [`CLA_FAQ.md`](CLA_FAQ.md) | Explicação do CLA, AGPL, uso comercial, fundação e contribuição sem aceite. |
 | [`TRADEMARK.md`](TRADEMARK.md) | Política de uso do nome e do logo. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Checklist padrão de pull request. |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Formulários de issue da organização. |
