@@ -36,7 +36,7 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 | [`CLA.md`](CLA.md) | Acordo de Licença de Contribuição. |
 | [`TRADEMARK.md`](TRADEMARK.md) | Política de uso do nome e do logo. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Checklist padrão de pull request. |
-| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Formulários de issue da organização. |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Formulários de issue da organização. |
 | [`profile/README.md`](profile/README.md) | Perfil público da organização. |
 
 ## Configuração e automação
