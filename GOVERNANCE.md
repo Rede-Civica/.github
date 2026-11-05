@@ -10,7 +10,7 @@ O projeto está em alpha fechado. O aplicativo opera com dados de teste e convid
 
 A organização ainda não constituiu a fundação prevista no livro. Até a constituição, a decisão final é do fundador, com consulta aos owners de continuidade quando nomeados. Depois da fundação, a decisão passa ao conselho da fundação, com mandatos rotativos e as regras deste documento incorporadas ao estatuto.
 
-O código oficial é AGPL-3.0. O texto é CC BY-SA 4.0. A marca segue a política de marca. O CLA permanece como instrumento de contribuição.
+O código oficial é AGPL-3.0-only. O texto é CC BY-SA 4.0. A marca segue a política de marca e a Carta Social. O CLA v2.0 AGPL-only permanece como instrumento de contribuição.
 
 ## Princípios
 
@@ -103,13 +103,17 @@ O histórico de issues e pull requests com o título `Governança:` é o registr
 
 ## Licença e compromissos
 
-O código oficial permanece AGPL-3.0. O texto permanece CC BY-SA 4.0. A marca segue a [política de marca](TRADEMARK.md).
+O código oficial é AGPL-3.0-only. O texto é CC BY-SA 4.0. A marca segue a [política de marca](TRADEMARK.md) e a [Carta Social](SOCIAL_CHARTER.md).
 
-Não há relicenciamento unilateral. Mudança de licença exige proposta pública de mudança, 30 dias de comentários, aprovação do fundador e consulta aos owners de continuidade, com justificativa jurídica pública. O CLA permite ao Titular relicenciar. Essa permissão não é usada para contornar este processo.
+Não há licença proprietária, versão comercial fechada, open core ou relicenciamento comercial. O [CLA](CLA.md) é AGPL-only. Ele não concede ao Titular o direito de relicenciar a contribuição sob termos proprietários. A distribuição oficial e qualquer obra derivada permanecem AGPL-3.0-only.
 
-A fundação ficará com a missão e a marca, não com o código. O código continua AGPL-3.0 e o fork continua possível. A transferência da marca para a fundação exige consulta pública e o mesmo processo de mudança de princípio.
+Mudança de licença exige proposta pública de mudança, 30 dias de comentários, aprovação do fundador e consulta aos owners de continuidade, com justificativa jurídica pública. A licença só pode mudar para outra licença copyleft que preserve as mesmas liberdades. Mudança para licença proprietária, non-commercial ou source-available é vedada.
 
-Toda contribuição exige aceite do [CLA](CLA.md). A origem do conteúdo é declarada. Contribuição sem origem clara é recusada.
+A fundação ficará com a missão, a marca e a administração do CLA, não com o código. O código continua AGPL-3.0-only e o fork continua possível. A transferência da marca para a fundação exige consulta pública e o mesmo processo de mudança de princípio. O estatuto da fundação incorpora a Carta Social e a vedação de licença proprietária.
+
+Toda contribuição exige aceite do CLA AGPL-only. A origem do conteúdo é declarada. Contribuição sem origem clara é recusada.
+
+A Carta Social é condição da licença de uso da marca. Serviço derivado que não cumpra a Carta Social não pode usar o nome ou o logo como projeto oficial.
 
 ## Caminho até a fundação
 
@@ -119,7 +123,7 @@ Toda contribuição exige aceite do [CLA](CLA.md). A origem do conteúdo é decl
 | Pré-fundação | Três mantenedores ativos, cinco contribuidores externos com pull request mergeado, dois encontros mensais abertos realizados, seis meses de registro público de decisões, código de conduta testado e primeira medição de contribuição, tempo de resposta e issues paradas publicada | Consulta pública do estatuto |
 | Consulta | 30 dias de comentários públicos, revisão de duas pessoas e ata publicada | Estatuto revisado |
 | Constituição | CNPJ, estatuto e conselho com mandatos rotativos | Conselho eleito por contribuidores ativos |
-| Transição | Transferência da marca e da governança, com o código mantido em AGPL-3.0 | Fundação detém a missão e a marca |
+| Transição | Transferência da marca, da governança e da administração do CLA, com o código mantido em AGPL-3.0-only | Fundação detém a missão e a marca |
 
 O conselho da fundação tem mandatos rotativos. Nenhum assento é vitalício. Nenhuma decisão estratégica é tomada sem publicação prévia e período de comentários.
 
@@ -141,6 +145,7 @@ A constituição jurídica depende de recursos e de assessoria jurídica. O comp
 - Não citar documento interno em arquivo público.
 - Manter a divulgação coordenada de segurança.
 - Manter o compromisso de licença descrito acima.
+- Manter a Carta Social, o CLA AGPL-only e a vedação de licença proprietária em todos os instrumentos jurídicos do projeto.
 
 ## Como mudar este documento
 

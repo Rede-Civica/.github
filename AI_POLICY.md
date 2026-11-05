@@ -87,7 +87,7 @@ Automação que comenta como se fosse pessoa ou esconde a própria natureza é p
 
 ## Licença, origem e proveniência
 
-O código do projeto é AGPL-3.0. O texto é CC BY-SA 4.0. Esta política não muda as licenças.
+O código do projeto é AGPL-3.0-only. O texto é CC BY-SA 4.0. Esta política não muda as licenças.
 
 Lavagem de licença (license laundering) é proibida. Isso inclui usar IA para reescrever, parafrasear ou disfarçar código, texto, imagem ou dado de terceiros para escapar de licença, atribuição ou permissão.
 
@@ -214,5 +214,6 @@ A política é pública e canônica. Não há histórico de versões nem aumento
 - [Governança](GOVERNANCE.md)
 - [Guia de contribuição](CONTRIBUTOR_HANDBOOK.md)
 - [CLA](CLA.md)
+- [Carta Social](SOCIAL_CHARTER.md)
 - [Como usar IA no produto](https://docs.redecivica.com.br/modelos-de-inferencia/)
 - [Onde a IA atua no livro](https://docs.redecivica.com.br/rede-civica/#onde-a-ia-atua)

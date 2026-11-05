@@ -83,7 +83,7 @@ Nenhum modelo desta tabela restringe uso comercial. As licenças exigem atribui�
 
 A conversão CTranslate2 do OPUS-MT registra Apache-2.0 na própria model card. O modelo de origem, `Helsinki-NLP/opus-mt-tc-big-en-pt`, declara CC BY 4.0. A conversão não muda a licença dos pesos. O projeto registra CC BY 4.0, atribui Helsinki-NLP e a conversão de ooeoeo e mantém a atribuição exigida pela origem.
 
-O serviço é AGPL-3.0. As licenças dos modelos não mudam a licença do serviço. A distribuição oficial do código continua AGPL-3.0.
+O serviço é AGPL-3.0-only. As licenças dos modelos não mudam a licença do serviço. A distribuição oficial do código continua AGPL-3.0-only.
 
 ## Atribuição
 

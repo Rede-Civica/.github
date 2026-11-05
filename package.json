@@ -2,7 +2,7 @@
   "name": "rede-civica-org",
   "version": "1.0.0",
   "private": true,
-  "license": "AGPL-3.0",
+  "license": "AGPL-3.0-only",
   "author": "Guilherme M. <contato@redecivica.com.br>",
   "repository": {
     "type": "git",
