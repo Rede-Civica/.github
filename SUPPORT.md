@@ -27,11 +27,11 @@ A [política de IA](AI_POLICY.md) explica como o projeto usa IA, como declarar o
 
 ## Prazos
 
-- Primeira resposta humana em issue, discussão ou pull request: até 2 dias úteis.
+- Primeira resposta humana em issue, discussão ou pull request: até 5 dias úteis.
 - Relato de segurança: confirmação em até 5 dias úteis. O fluxo completo está em [SECURITY.md](SECURITY.md).
 - Relato de conduta: confirmação em até 3 dias úteis e decisão inicial em até 10 dias úteis. O fluxo completo está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
-- Feedback de modelo: primeira resposta humana em até 2 dias úteis. A triagem pode abrir uma issue ou uma correção, sem prazo garantido.
-- Revisão de pull request: primeira resposta em até 2 dias úteis. Se a revisão precisar de mais tempo, o mantenedor diz quando volta.
+- Feedback de modelo: primeira resposta humana em até 5 dias úteis. A triagem pode abrir uma issue ou uma correção, sem prazo garantido.
+- Revisão de pull request: primeira resposta em até 5 dias úteis. Se a revisão precisar de mais tempo, o mantenedor diz quando volta.
 - Não há prazo garantido para correção, merge ou release.
 
 O prazo conta dias úteis, de segunda a sexta, no fuso de São Paulo. Feriados locais podem atrasar a resposta.

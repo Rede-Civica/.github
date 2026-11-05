@@ -98,7 +98,7 @@ O caminho abaixo cabe em um dia de 4 a 6 horas. Se você tiver menos tempo, esco
 
 ### 6. Acompanhe a revisão
 
-- A primeira resposta humana sai em até 2 dias úteis.
+- A primeira resposta humana sai em até 5 dias úteis.
 - Responda aos comentários e envie novos commits na mesma branch.
 - Não faça force push depois de uma revisão, salvo pedido do revisor.
 - O merge é feito por um mantenedor, depois da aprovação e dos checks verdes.
@@ -153,7 +153,7 @@ uv run pytest tests/test_auth.py -q
 
 ## O que esperar da revisão
 
-- Primeira resposta humana em até 2 dias úteis.
+- Primeira resposta humana em até 5 dias úteis.
 - Revisão semanal, salvo bloqueio declarado no pull request.
 - O revisor pode pedir mudanças, testes ou documentação.
 - Não há prazo garantido para merge. O merge depende da revisão e dos checks.
@@ -223,7 +223,7 @@ Na triagem, os mantenedores:
 
 1. leem as issues e os pull requests novos;
 2. aplicam labels, incluindo `needs-triage`, `bug`, `docs`, `enhancement` e `good first issue`;
-3. respondem à primeira mensagem em até 2 dias úteis;
+3. respondem à primeira mensagem em até 5 dias úteis;
 4. pedem informação que falta;
 5. fecham duplicata com link para a issue original;
 6. indicam mentor nas tarefas de primeira contribuição;

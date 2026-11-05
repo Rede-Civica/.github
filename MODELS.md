@@ -118,7 +118,7 @@ Inclua:
 
 Não inclua dado pessoal, mídia real de terceiros, credencial, token ou conteúdo confidencial. Use dados de teste. Se o caso exigir dado sensível, diga isso sem enviar o dado e peça um canal privado.
 
-A primeira resposta humana sai em até 2 dias úteis. A triagem pode abrir uma issue ou uma correção. A decisão fica registrada no tópico. Não há garantia nem prazo para correção.
+A primeira resposta humana sai em até 5 dias úteis. A triagem pode abrir uma issue ou uma correção. A decisão fica registrada no tópico. Não há garantia nem prazo para correção.
 
 Vulnerabilidade de segurança vai para o [SECURITY.md](SECURITY.md). Conduta vai para o [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Bug de produto que não é de modelo vai para o formulário de issue.
 

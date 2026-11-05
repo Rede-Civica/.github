@@ -77,7 +77,7 @@ A organização é voluntária e não é remunerada nesta etapa. A lista de mode
 ## O que não é
 
 - Não é reunião de decisão. Decisão segue [GOVERNANCE.md](GOVERNANCE.md).
-- Não é suporte 24 horas. O prazo de primeira resposta é de até 2 dias úteis.
+- Não é suporte 24 horas. O prazo de primeira resposta é de até 5 dias úteis.
 - Não é consultoria privada, aula particular ou atendimento individual.
 - Não é espaço para relato de conduta, denúncia de crime ou dado pessoal.
 - Não é obrigatório para contribuir. A participação assíncrona nas Discussões vale.

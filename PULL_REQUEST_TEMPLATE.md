@@ -32,4 +32,4 @@ Se não usou, escreva "Não usei".
 - [ ] Documentação atualizada, quando a mudança altera contrato, comportamento ou uso
 - [ ] Nenhum segredo, chave ou credencial no diff
 - [ ] Parâmetros públicos sincronizados nos dois espelhos, se aplicável
-- [ ] Entendo que a primeira resposta humana sai em até 2 dias úteis e que o merge depende de revisão e checks verdes
+- [ ] Entendo que a primeira resposta humana sai em até 5 dias úteis e que o merge depende de revisão e checks verdes

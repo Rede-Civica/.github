@@ -6,7 +6,7 @@ Este documento lista quem responde pela organização, por área e por continuid
 
 | Nome | GitHub | Papel | Área principal | Disponibilidade | Contato |
 |---|---|---|---|---|---|
-| Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Fundador, owner ativo e mantenedor ativo | Arquitetura, API, web, inferência, governança e segurança | Primeira resposta em até 2 dias úteis, revisão semanal e emergência de segurança | contato@redecivica.com.br |
+| Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Fundador, owner ativo e mantenedor ativo | Arquitetura, API, web, inferência, governança e segurança | Primeira resposta em até 5 dias úteis, revisão semanal e emergência de segurança | contato@redecivica.com.br |
 
 O fundador é o owner ativo e o mantenedor ativo nesta etapa. A decisão final é dele até a constituição da fundação, com consulta aos owners de continuidade quando nomeados.
 
@@ -38,7 +38,7 @@ A moderação das [Discussões](DISCUSSIONS.md) começa com o fundador como mode
 
 | Posto | Nome | GitHub | Disponibilidade | Contato |
 |---|---|---|---|---|
-| Moderador 1 | Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Primeira resposta em até 2 dias úteis e risco no mesmo dia | contato@redecivica.com.br |
+| Moderador 1 | Guilherme M. | [@GuiWain](https://github.com/GuiWain) | Primeira resposta em até 5 dias úteis e risco no mesmo dia | contato@redecivica.com.br |
 | Moderador 2 | Vaga aberta | Não se aplica | A definir | contato@redecivica.com.br |
 
 Enquanto a segunda vaga estiver aberta, o fundador modera. Quando o fundador estiver envolvido no tópico, um advisor externo decide a moderação. O moderador não decide caso de conduta. Ele contém o dano imediato no espaço, preserva evidência e encaminha o relato ao respondedor.
@@ -62,7 +62,7 @@ A primeira simulação de mesa do plano de segurança da comunidade acontece em 
 
 ## Disponibilidade e contato
 
-- Primeira resposta em issue ou pull request: até 2 dias úteis.
+- Primeira resposta em issue ou pull request: até 5 dias úteis.
 - Revisão de código: semanal, salvo bloqueio declarado no pull request.
 - Segurança: canal privado em [SECURITY.md](SECURITY.md). Não abra issue pública.
 - Conduta: canal em [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). O fluxo completo, com prazos, medidas provisórias e apelação, está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md). A confirmação sai em até 3 dias úteis e a decisão inicial em até 10 dias úteis.

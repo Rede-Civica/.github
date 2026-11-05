@@ -100,7 +100,7 @@ A moderação não decide caso de conduta. Ela contém o dano imediato, preserva
 
 | Etapa | Prazo |
 |---|---|
-| Primeira resposta humana | Até 2 dias úteis |
+| Primeira resposta humana | Até 5 dias úteis |
 | Risco imediato, ameaça ou doxxing | Mesmo dia |
 | Revisão de medida provisória | Até 5 dias úteis |
 | Apelação de moderação | Até 10 dias úteis |
@@ -169,7 +169,7 @@ Corpo:
 >
 > **Moderação**
 >
-> A moderação começa com o fundador. A segunda vaga está aberta. A primeira resposta humana sai em até 2 dias úteis. Relatos de conduta não são feitos aqui: use contato@redecivica.com.br.
+> A moderação começa com o fundador. A segunda vaga está aberta. A primeira resposta humana sai em até 5 dias úteis. Relatos de conduta não são feitos aqui: use contato@redecivica.com.br.
 
 ## Glossário
 

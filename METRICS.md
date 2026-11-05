@@ -23,7 +23,7 @@ O relatório mede tendência, contexto e decisão. Não compara projetos e não 
 | Mantenedores ativos | Pessoas com permissão de merge que revisaram, mergearam ou fizeram commit direto na janela. | 1 | 3 ou mais | Histórico git e dados públicos de pull request. |
 | Contribuidores externos | Pessoas fora da organização com pull request mergeado na janela. | 0 | 5 ou mais | API pública e histórico git. |
 | Contribuidores não-código | Pessoas fora da organização com contribuição de documentação, design, tradução ou comunidade mergeada na janela. | 0 | 3 ou mais | Histórico de pull requests e registro de contribuições. |
-| Tempo até a primeira resposta (time to first response, TTFR) | Mediana de horas entre a abertura e a primeira resposta humana em issue ou pull request. | n/a | 2 dias úteis ou menos | 10 issues públicas abertas em 04/11/2026, sem resposta até a medição. |
+| Tempo até a primeira resposta (time to first response, TTFR) | Mediana de horas entre a abertura e a primeira resposta humana em issue ou pull request. | n/a | 5 dias úteis ou menos | 10 issues públicas abertas em 04/11/2026, sem resposta até a medição. |
 | Razão de fechamento de pull request (PR closing ratio) | Pull requests fechados ou mergeados divididos por pull requests abertos na janela. | n/a | 1 ou mais | Nenhum pull request no repositório público. Dados de repositórios privados não entram na medição pública. |
 | Idade mediana de issue | Mediana de dias em aberto das issues abertas na data da medição. | 0,2 dia | Menos de 30 dias | 30 issues criadas em 04/11/2026, conforme registro de criação. |
 | Marcos públicos | Marcos de desenvolvimento publicados por trimestre. | 0 | 3 | API pública de milestones e registro de marcos. |

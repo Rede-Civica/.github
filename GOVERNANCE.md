@@ -138,7 +138,7 @@ A constituição jurídica depende de recursos e de assessoria jurídica. O comp
 - Publicar toda mudança de governança com antecedência mínima de 14 dias, e 30 dias para mudança de princípio.
 - Submeter mudanças de governança à revisão de duas pessoas.
 - Manter o registro público de decisões.
-- Responder a primeira mensagem em issue ou pull request em até 2 dias úteis.
+- Responder a primeira mensagem em issue ou pull request em até 5 dias úteis.
 - Publicar relatório anual de conduta, com número de casos, tempo de resposta e medidas, sem identidade. O formato está em [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md).
 - Publicar relatório mensal com contribuição, tempo de resposta e issues paradas quando a primeira medição existir.
 - Não incluir dado pessoal em métrica, relatório, issue ou discussão.

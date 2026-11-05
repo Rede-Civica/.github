@@ -24,7 +24,7 @@ Checklist da sessão:
 
 1. Ler issues e pull requests novos.
 2. Aplicar label de classificação.
-3. Responder à primeira mensagem em até 2 dias úteis.
+3. Responder à primeira mensagem em até 5 dias úteis.
 4. Pedir a informação que falta, com perguntas específicas.
 5. Fechar duplicata com link para a issue original.
 6. Indicar mentor nas tarefas de primeira contribuição.
@@ -37,7 +37,7 @@ A sessão não precisa de ata. A decisão fica registrada no próprio item, em c
 
 | Item | Prazo | Ação |
 |---|---|---|
-| Primeira resposta humana | 2 dias úteis | Resposta pública em issue, discussão ou pull request. |
+| Primeira resposta humana | 5 dias úteis | Resposta pública em issue, discussão ou pull request. |
 | Triagem semanal | Segunda-feira, 30 minutos | Classificação, labels e encaminhamento. |
 | Issue parada | 30 dias sem resposta ou atividade | Revisão de triagem, comentário e decisão. |
 | Pull request parado | 30 dias sem atividade | Comentário. Se continuar parado por 7 dias, pode ser fechado. |

@@ -132,7 +132,7 @@ A categorização automática acima do limiar pode publicar o conteúdo com marc
 
 Cada decisão é registrada em histórico append-only (registro que só recebe novas entradas, sem apagar as anteriores), com decisão, motivo, moderador, data, modelo e versão da assistência quando houver e reversão. O registro não expõe dado pessoal.
 
-A apelação é feita a uma pessoa que não participou da decisão. O pedido vai para `contato@redecivica.com.br`, com o assunto `Moderação de conteúdo`. A primeira resposta humana sai em até 2 dias úteis. A decisão é justificada. Não há garantia de reversão.
+A apelação é feita a uma pessoa que não participou da decisão. O pedido vai para `contato@redecivica.com.br`, com o assunto `Moderação de conteúdo`. A primeira resposta humana sai em até 5 dias úteis. A decisão é justificada. Não há garantia de reversão.
 
 Caso de conduta segue [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e [COMMUNITY_SAFETY.md](COMMUNITY_SAFETY.md). Vulnerabilidade de segurança segue [SECURITY.md](SECURITY.md).
 
@@ -177,7 +177,7 @@ Inclua:
 
 Não inclua dado pessoal, mídia real de terceiros, credencial, token ou conteúdo confidencial. Use dados de teste. Se o caso exigir dado sensível, diga isso sem enviar o dado e peça um canal privado.
 
-A primeira resposta humana sai em até 2 dias úteis. A triagem pode abrir uma issue ou uma correção. A decisão fica registrada no tópico. Não há garantia nem prazo para correção.
+A primeira resposta humana sai em até 5 dias úteis. A triagem pode abrir uma issue ou uma correção. A decisão fica registrada no tópico. Não há garantia nem prazo para correção.
 
 Vulnerabilidade de segurança vai para [SECURITY.md](SECURITY.md). Conduta vai para [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Bug de produto que não é de modelo vai para o template de issue.
 
