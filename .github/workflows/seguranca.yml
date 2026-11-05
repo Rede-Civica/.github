@@ -1,0 +1,43 @@
+name: seguranca
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  gitleaks:
+    name: gitleaks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Detectar segredos nos commits do evento
+        env:
+          EVENTO: ${{ github.event_name }}
+          ANTES: ${{ github.event.before }}
+          BASE_PR: ${{ github.event.pull_request.base.sha }}
+          CABECA_PR: ${{ github.event.pull_request.head.sha }}
+        run: |
+          if [ "$EVENTO" = "pull_request" ]; then
+            intervalo="${BASE_PR}..${CABECA_PR}"
+          elif [ -n "$ANTES" ] && [ "$ANTES" != "0000000000000000000000000000000000000000" ]; then
+            intervalo="${ANTES}..${GITHUB_SHA}"
+          else
+            intervalo="-1 ${GITHUB_SHA}"
+          fi
+          docker run --rm \
+            -e GIT_CONFIG_COUNT=1 \
+            -e GIT_CONFIG_KEY_0=safe.directory \
+            -e GIT_CONFIG_VALUE_0='*' \
+            -v "$PWD:/repo" \
+            ghcr.io/gitleaks/gitleaks:v8.30.1 \
+            detect --source /repo --log-opts "$intervalo" --redact --verbose --no-banner
