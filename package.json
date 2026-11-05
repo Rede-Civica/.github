@@ -14,7 +14,7 @@
   },
   "scripts": {
     "lint:markdown": "markdownlint-cli2 \"**/*.md\"",
-    "verificar:links": "markdown-link-check --config .markdown-link-check.json *.md profile/*.md ISSUE_TEMPLATE/*.md",
+    "verificar:links": "markdown-link-check --config .markdown-link-check.json *.md profile/*.md",
     "verificar": "npm run lint:markdown && npm run verificar:links"
   },
   "devDependencies": {

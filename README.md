@@ -28,6 +28,7 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 | [`AI_POLICY.md`](AI_POLICY.md) | Declaração de uso de IA, responsabilidade humana, agentes e feedback de modelo. |
 | [`SECURITY.md`](SECURITY.md) | Canal, escopo, prazos e divulgação coordenada de vulnerabilidades. |
 | [`CONTRIBUTOR_HANDBOOK.md`](CONTRIBUTOR_HANDBOOK.md) | Setup, primeiro pull request, gates, revisão e CLA em linguagem simples. |
+| [`TRIAGE.md`](TRIAGE.md) | Papéis, prazos, labels e critérios de triagem. |
 | [`DISCUSSIONS.md`](DISCUSSIONS.md) | Categorias, regras e moderação das Discussões. |
 | [`ENCONTROS.md`](ENCONTROS.md) | Formato, pauta e notas dos encontros mensais abertos. |
 | [`DEVLOG.md`](DEVLOG.md) | Modelo do diário público de avanços. |
@@ -35,7 +36,7 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 | [`CLA.md`](CLA.md) | Acordo de Licença de Contribuição. |
 | [`TRADEMARK.md`](TRADEMARK.md) | Política de uso do nome e do logo. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Checklist padrão de pull request. |
-| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Templates de issue da organização. |
+| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Formulários de issue da organização. |
 | [`profile/README.md`](profile/README.md) | Perfil público da organização. |
 
 ## Configuração e automação

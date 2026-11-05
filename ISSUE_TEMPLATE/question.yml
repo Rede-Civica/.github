@@ -1,0 +1,50 @@
+name: Pergunta
+description: Registre uma dúvida sobre uso, contrato ou modelo que precise de resposta pública.
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dúvidas rápidas têm resposta mais rápida nas [Discussões](https://github.com/Rede-Civica/.github/discussions), categoria Ajuda. Use este formulário quando a pergunta precisar ficar registrada em issue.
+
+        Leia o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md) antes de abrir. Não inclua dado pessoal, credencial ou conteúdo de terceiros.
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: O que você estava tentando fazer ou entender.
+    validations:
+      required: true
+
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: Pergunta
+      description: Faça uma pergunta objetiva. Se houver mais de uma, abra itens separados.
+    validations:
+      required: true
+
+  - type: textarea
+    id: procurei
+    attributes:
+      label: Onde já procurei
+      description: Liste páginas, issues, discussões e tutoriais consultados.
+      placeholder: |
+        - Tutorial de execução local
+        - Discussões, categoria Ajuda
+        - Issue #12
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Procurei na documentação, nas issues e nas discussões.
+          required: true
+        - label: Removi dado pessoal, credencial e conteúdo de terceiros.
+          required: true
+        - label: Aceito seguir o código de conduta.
+          required: true

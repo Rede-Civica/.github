@@ -1,0 +1,70 @@
+name: Bug
+description: Reporte um comportamento incorreto reproduzível.
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bug reproduzível tem prioridade na triagem. Antes de abrir, procure uma issue ou discussão parecida.
+
+        Não inclua dado pessoal, credencial, token ou conteúdo de terceiros. Vulnerabilidade de segurança segue o canal privado descrito em [SECURITY.md](https://github.com/Rede-Civica/.github/blob/main/SECURITY.md). Dúvida de uso vai para as [Discussões](https://github.com/Rede-Civica/.github/discussions).
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Explique o problema em uma ou duas frases.
+      placeholder: Ao abrir a página de acompanhamento, a timeline fica vazia.
+    validations:
+      required: true
+
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para reproduzir
+      description: Numere cada passo. Inclua o menor caminho que reproduz o problema.
+      placeholder: |
+        1. Abra a página de acompanhamento de uma demanda.
+        2. Role até a timeline.
+        3. Observe que a timeline fica vazia.
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamento esperado
+      description: O que deveria acontecer.
+    validations:
+      required: true
+
+  - type: textarea
+    id: observado
+    attributes:
+      label: Comportamento observado
+      description: O que aconteceu de fato. Inclua a mensagem de erro, sem dado pessoal.
+    validations:
+      required: true
+
+  - type: input
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: Sistema, navegador ou runtime, versão ou commit e repositório.
+      placeholder: Firefox 140 no Linux, commit abc123, repositório mvp-web
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Li o guia de contribuição e procurei issue ou discussão parecida.
+          required: true
+        - label: Removi dado pessoal, credencial e conteúdo de terceiros.
+          required: true
+        - label: Consigo reproduzir o problema na versão informada.
+          required: true
+        - label: Aceito seguir o código de conduta.
+          required: true

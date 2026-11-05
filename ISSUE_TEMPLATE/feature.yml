@@ -1,0 +1,59 @@
+name: Nova funcionalidade
+description: Proponha uma funcionalidade ou melhoria com problema, proposta e escopo.
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A proposta precisa de vínculo com o livro ou com um SDS. Propostas sem referência podem ser recusadas ou convertidas em discussão.
+
+        Leia o [livro Rede Cívica](https://docs.redecivica.com.br/rede-civica/), o [Apêndice B](https://docs.redecivica.com.br/sds/apendice-b-colonias/) e a [política de IA](https://github.com/Rede-Civica/.github/blob/main/AI_POLICY.md). Não inclua dado pessoal, credencial ou conteúdo de terceiros.
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema
+      description: Qual problema a funcionalidade resolve e para quem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta
+      description: O que deve existir e como deve funcionar.
+    validations:
+      required: true
+
+  - type: input
+    id: referencia
+    attributes:
+      label: Referência no livro ou no SDS
+      description: Capítulo, seção ou SDS que sustenta a proposta. Se não houver referência direta, explique a lacuna.
+      placeholder: Livro, Parte II, seção "Agenda", ou SDS D-5 Agenda
+    validations:
+      required: true
+
+  - type: textarea
+    id: escopo
+    attributes:
+      label: Escopo
+      description: O que entra, o que fica de fora e quais repositórios ou áreas são afetados.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Procurei issue ou discussão parecida.
+          required: true
+        - label: A proposta é compatível com o livro e os SDS, ou explica a divergência.
+          required: true
+        - label: Removi dado pessoal, credencial e conteúdo de terceiros.
+          required: true
+        - label: Se usei IA para escrever esta issue, declarei a ferramenta e as partes assistidas.
+          required: true
+        - label: Aceito seguir o código de conduta.
+          required: true

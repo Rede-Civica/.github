@@ -1,0 +1,51 @@
+name: Documentação
+description: Aponte erro, lacuna ou link quebrado na documentação.
+labels: ["docs", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário para erro de texto, link quebrado, página desatualizada ou lacuna de explicação.
+
+        O site publica o livro, os tutoriais e a referência em [docs.redecivica.com.br](https://docs.redecivica.com.br). O fluxo de contribuição está no [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md). Não inclua dado pessoal, credencial ou conteúdo de terceiros.
+
+  - type: input
+    id: pagina
+    attributes:
+      label: Página ou URL
+      description: Endereço completo ou caminho do arquivo.
+      placeholder: https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/
+    validations:
+      required: true
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema
+      description: O que está errado, confuso ou faltando. Inclua o trecho e a página.
+    validations:
+      required: true
+
+  - type: textarea
+    id: mudanca
+    attributes:
+      label: Mudança proposta
+      description: O texto, a estrutura ou o link que deveria existir.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Procurei issue ou discussão parecida.
+          required: true
+        - label: Conferi que o problema ainda existe na página atual.
+          required: true
+        - label: Removi dado pessoal, credencial e conteúdo de terceiros.
+          required: true
+        - label: Se usei IA para escrever esta issue, declarei a ferramenta e as partes assistidas.
+          required: true
+        - label: Aceito seguir o código de conduta.
+          required: true
