@@ -54,6 +54,7 @@ A IA reduz atrito e não decide. Todo resultado automático é marcado, versiona
 O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro, os tutoriais, os guias práticos e a referência.
 
 - Entender o modelo: [livro Rede Cívica](https://docs.redecivica.com.br/rede-civica/) e [`rede_civica.md`](https://github.com/Rede-Civica/docs/blob/master/rede_civica.md).
+- Mapa do código: [ARCHITECTURE.md](https://github.com/Rede-Civica/.github/blob/main/ARCHITECTURE.md): repositórios, fluxo de eventos e onde mexer.
 - Rodar o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
 - Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md), o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
