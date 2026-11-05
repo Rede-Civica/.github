@@ -12,12 +12,12 @@ A organização mantém seis repositórios. O [perfil da organização](https://
 
 | Repositório | Papel | Linguagem | Artefato | Licença |
 |---|---|---|---|---|
-| `.github` | Governança, conduta, suporte, políticas e automação de verificação | Markdown, YAML e JavaScript | Arquivos de saúde da organização e verificação de markdown e links | AGPL-3.0 na automação; CC BY-SA 4.0 no texto |
-| `docs` | Livro, especificações de software, tutoriais, guias e referências | Markdown | Conteúdo canônico publicado pelo site de documentação | CC BY-SA 4.0 no texto; AGPL-3.0 no código de verificação |
-| `mvp-api` | Back-end, barramento de eventos, colônias e projeções | TypeScript (NestJS) | API REST, barramento, banco e migrations | AGPL-3.0 |
-| `mvp-web` | Aplicativo do cidadão e do conselheiro | TypeScript, React e Vite | PWA map-first com fila offline | AGPL-3.0 |
-| `mvp-inferencia` | Inferência self-hosted de imagem, áudio e texto | Python (FastAPI) | Serviço HTTP `/v1`, fila e motores | AGPL-3.0 |
-| `mvp-docs` | Site público de documentação | JavaScript, Astro e Starlight | Site em `docs.redecivica.com.br` | AGPL-3.0 |
+| `.github` | Governança, conduta, suporte, políticas e automação de verificação | Markdown, YAML e JavaScript | Arquivos de saúde da organização e verificação de markdown e links | AGPL-3.0-only na automação; CC BY-SA 4.0 no texto |
+| `docs` | Livro, especificações de software, tutoriais, guias e referências | Markdown | Conteúdo canônico publicado pelo site de documentação | CC BY-SA 4.0 no texto; AGPL-3.0-only no código de verificação |
+| `mvp-api` | Back-end, barramento de eventos, colônias e projeções | TypeScript (NestJS) | API REST, barramento, banco e migrations | AGPL-3.0-only |
+| `mvp-web` | Aplicativo do cidadão e do conselheiro | TypeScript, React e Vite | PWA map-first com fila offline | AGPL-3.0-only |
+| `mvp-inferencia` | Inferência self-hosted de imagem, áudio e texto | Python (FastAPI) | Serviço HTTP `/v1`, fila e motores | AGPL-3.0-only |
+| `mvp-docs` | Site público de documentação | JavaScript, Astro e Starlight | Site em `docs.redecivica.com.br` | AGPL-3.0-only |
 
 O repositório `.github` é público. O `docs` e os quatro repositórios de código abrem no lançamento de fevereiro de 2027. Até lá, o livro e os SDS estão publicados em [docs.redecivica.com.br](https://docs.redecivica.com.br).
 
@@ -80,6 +80,7 @@ O diagrama mostra os eventos principais. O contrato de cada evento está no [Ap�
 - SDS por área: [D-1a Captura](https://docs.redecivica.com.br/sds/d-1a-captura/), [D-6b Relatoria](https://docs.redecivica.com.br/sds/d-6b-relatoria-e-acompanhamento/) e [D-7 Transparência](https://docs.redecivica.com.br/sds/d-7-transparencia/).
 - [Modelos de inferência](https://docs.redecivica.com.br/modelos-de-inferencia/): capacidades, runtime, limites e uso.
 - [Guia de contribuição](CONTRIBUTOR_HANDBOOK.md): setup, primeiro pull request, gates e CLA.
+- [Carta Social](SOCIAL_CHARTER.md): missão, licença, dados, governança, dinheiro, marca e fundação.
 
 ## Governança e suporte
 

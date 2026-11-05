@@ -97,7 +97,7 @@ Não é preciso escrever código para contribuir. Estas tarefas cabem em meia ho
 | Testar o aplicativo no celular e relatar layout ou acessibilidade | 20 min | Abra uma issue com captura sem dado pessoal |
 | Apresentar o projeto a uma pessoa que trabalha com tecnologia cívica | 5 min | Envie o site [docs.redecivica.com.br](https://docs.redecivica.com.br) |
 
-Toda contribuição segue o [CLA](CLA.md) e o código de conduta. A issue é o lugar para alinhar o trabalho antes do pull request. O [guia de contribuição](CONTRIBUTOR_HANDBOOK.md) mostra o setup, o primeiro PR e os gates.
+Toda contribuição segue a [Carta Social](SOCIAL_CHARTER.md), o [CLA AGPL-only](CLA.md) e o código de conduta. A issue é o lugar para alinhar o trabalho antes do pull request. O [guia de contribuição](CONTRIBUTOR_HANDBOOK.md) mostra o setup, o primeiro PR e os gates.
 
 ## Segurança e privacidade
 

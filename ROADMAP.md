@@ -55,7 +55,7 @@ A saúde da comunidade, aqui, significa acompanhar quem contribui, quanto tempo 
 - Não abrir dados pessoais, telemetria individual ou identidade de participantes.
 - Não usar IA para decidir prioridade, moderar conteúdo ou substituir a decisão humana. A categorização automática acima do limiar publica com marcação e contestação imediata.
 - Não operar como canal oficial do poder público.
-- Não trocar o acordo de contribuição (CLA) pela declaração de origem por commit (DCO) nesta etapa.
+- Não trocar o acordo de contribuição (CLA) pela declaração de origem por commit (DCO) nesta etapa. O CLA v2.0 é AGPL-only e veda relicenciamento proprietário.
 - Não manter tradução para inglês ou espanhol nesta etapa.
 - Não aceitar contribuição sem origem declarada e aceite do acordo de contribuição.
 

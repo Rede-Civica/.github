@@ -16,7 +16,7 @@ O ROPA (registro das operações de tratamento) e os registros de operação fic
 
 | Classe | Exemplos | Exposição | Licença |
 |---|---|---|---|
-| Código | API, web, inferência, site, workflows | Público | AGPL-3.0 |
+| Código | API, web, inferência, site, workflows | Público | AGPL-3.0-only |
 | Texto e documentação | Livro, SDS, tutoriais, guias | Público | CC BY-SA 4.0 |
 | Dados públicos agregados | Contagens, rankings, indicadores por unidade cívica | Público | CC BY 4.0, sujeita a revisão jurídica |
 | Dados operacionais | Eventos, logs, moderação, histórico | Restrito | Não licenciado |
@@ -28,7 +28,7 @@ O ROPA (registro das operações de tratamento) e os registros de operação fic
 
 ### Código
 
-O código dos repositórios da organização usa AGPL-3.0. A automação de verificação deste repositório também usa AGPL-3.0. O uso exige o cumprimento da licença, incluindo a oferta do código-fonte para quem interage com o serviço pela rede.
+O código dos repositórios da organização usa AGPL-3.0-only. A automação de verificação deste repositório também usa AGPL-3.0-only. O uso exige o cumprimento da licença, incluindo a oferta do código-fonte para quem interage com o serviço pela rede.
 
 ### Texto e documentação
 
@@ -39,6 +39,8 @@ A marca não entra na licença do código nem do texto. O uso do nome e do logo 
 ### Dados públicos agregados
 
 Contagens, rankings, indicadores por unidade cívica e os resumos públicos derivados são publicados sob CC BY 4.0, sujeita a revisão jurídica. A licença cobre o conjunto agregado publicado, não os dados de origem. A agregação não pode permitir a reidentificação de uma pessoa.
+
+O projeto não vende, aluga ou licencia dados pessoais. Não há publicidade, vigilância comercial ou uso de dado pessoal para treinar modelo de terceiro sem consentimento. O compromisso está na [Carta Social](SOCIAL_CHARTER.md).
 
 A atribuição sugerida é "Rede Cívica, dados públicos agregados, CC BY 4.0", com link para a licença e indicação de alterações. A revisão jurídica pode ajustar a licença antes da publicação de uma base agregada. Se isso acontecer, o dado publicado e a licença mudam juntos.
 

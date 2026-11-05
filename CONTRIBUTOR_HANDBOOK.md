@@ -6,7 +6,7 @@ O projeto está em alpha fechado. O repositório `.github` é público. O `docs`
 
 ## Antes de começar
 
-- Leia o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
+- Leia a [Carta Social](SOCIAL_CHARTER.md), o [código de conduta](CODE_OF_CONDUCT.md) e o [plano de segurança da comunidade](COMMUNITY_SAFETY.md).
 - Leia a [governança](GOVERNANCE.md), a [escada de contribuição](CONTRIBUTOR_LADDER.md) e o [roadmap](ROADMAP.md).
 - Saiba onde pedir ajuda e os prazos no [SUPPORT.md](SUPPORT.md).
 - Ative a autenticação em dois fatores na conta do GitHub.
@@ -164,17 +164,21 @@ uv run pytest tests/test_auth.py -q
 
 ## CLA em linguagem simples
 
-O CLA é o [Acordo de Licença de Contribuição](CLA.md). Ele permite que o projeto distribua o código e o texto que você envia. O texto jurídico é o do `CLA.md`. Esta seção é um resumo explicativo e não altera o contrato. As [perguntas frequentes](#perguntas-frequentes-sobre-o-cla) estão abaixo.
+O CLA é o [Acordo de Licença de Contribuição](CLA.md). Ele permite que o projeto distribua o código e o texto que você envia. O texto jurídico é o do `CLA.md`. Esta seção é um resumo explicativo e não altera o contrato. As [perguntas frequentes](CLA_FAQ.md) estão no arquivo próprio.
 
 ### Perguntas frequentes sobre o CLA
 
-**Por que existe.** O projeto distribui o código sob AGPL-3.0 e o texto sob CC BY-SA 4.0. O CLA registra que você tem o direito de enviar a contribuição e que o projeto pode distribuir o que você enviou.
+**Por que existe.** O projeto distribui o código sob AGPL-3.0-only e o texto sob CC BY-SA 4.0. O CLA registra que você tem o direito de enviar a contribuição e que o projeto pode distribuir o que você enviou.
 
 **O que você mantém.** Você continua com o direito autoral da sua contribuição e pode usá-la para qualquer outro fim.
 
-**O que você concede.** Você concede ao titular uma licença perpétua, mundial, não exclusiva, gratuita, irrevogável e com direito de sublicenciar. A licença cobre reproduzir, preparar obras derivadas, exibir, executar, sublicenciar e distribuir a contribuição. O titular pode relicenciar e explorar comercialmente o conjunto que incorpora a contribuição.
+**O que você concede.** Você concede ao projeto uma licença perpétua, mundial, não exclusiva, gratuita, irrevogável e com direito de sublicenciar, limitada à distribuição sob a AGPL-3.0-only. A licença cobre reproduzir, preparar obras derivadas, exibir, executar, sublicenciar e distribuir a contribuição.
 
-**Compromisso de licença.** O código oficial permanece AGPL-3.0 e o texto permanece CC BY-SA 4.0. Não há relicenciamento unilateral. Mudança de licença exige proposta pública de mudança, 30 dias de comentários, aprovação do fundador e consulta aos owners de continuidade, conforme a seção "Licença e compromissos" da [governança](GOVERNANCE.md#licença-e-compromissos). O CLA permite ao titular relicenciar. Essa permissão não é usada para contornar o processo.
+**O que o projeto não pode fazer.** O CLA v2.0 é AGPL-only. O projeto não pode relicenciar a sua contribuição sob termos proprietários, vender uma licença comercial do seu código ou incluir a contribuição em versão fechada. A [Carta Social](SOCIAL_CHARTER.md) registra o compromisso e vincula a marca e a fundação.
+
+**Compromisso de licença.** O código oficial permanece AGPL-3.0-only e o texto permanece CC BY-SA 4.0. Mudança de licença exige proposta pública de mudança, 30 dias de comentários, aprovação do fundador e consulta aos owners de continuidade, conforme a seção "Licença e compromissos" da [governança](GOVERNANCE.md#licença-e-compromissos). A licença só pode mudar para outra licença copyleft que preserve as mesmas liberdades.
+
+**Uso comercial.** O projeto não vende licença de software e não distribui lucro. Terceiros podem usar o código sob a AGPL, inclusive para prestar serviço comercial, desde que mantenham a versão derivada aberta e ofereçam o código-fonte a quem usa o serviço pela rede.
 
 **Como aceitar.** O CLA Assistant pede o aceite no primeiro pull request. Comente a frase indicada. O aceite cobre as contribuições presentes e futuras.
 
@@ -284,5 +288,5 @@ Não use mensagem privada para pedido de suporte. A conversa pública fica regis
 - **Typecheck.** Verificação de tipos do TypeScript ou do Python.
 - **Cobertura.** Percentual do código exercitado pelos testes.
 - **CLA.** Acordo de Licença de Contribuição.
-- **AGPL-3.0.** Licença do código, com copyleft forte para serviços de rede.
+- **AGPL-3.0-only.** Licença do código, com copyleft forte para serviços de rede.
 - **CC BY-SA 4.0.** Licença do texto, com atribuição e compartilhamento na mesma licença.

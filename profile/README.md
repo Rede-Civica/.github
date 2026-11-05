@@ -4,24 +4,29 @@ Infraestrutura cívica digital para governança social. Cidadãos registram dema
 
 ## Repositórios
 
-- [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos. AGPL-3.0.
-- [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first. AGPL-3.0.
-- [`mvp-inferencia`](https://github.com/Rede-Civica/mvp-inferencia): serviço Python/FastAPI de inferência de IA self-hosted (imagem, áudio e texto), consumido pela API pela rede interna. AGPL-3.0.
+- [`mvp-api`](https://github.com/Rede-Civica/mvp-api): back-end NestJS. Monolito modular "O Formigueiro", orientado a eventos. AGPL-3.0-only.
+- [`mvp-web`](https://github.com/Rede-Civica/mvp-web): front-end React, PWA map-first. AGPL-3.0-only.
+- [`mvp-inferencia`](https://github.com/Rede-Civica/mvp-inferencia): serviço Python/FastAPI de inferência de IA self-hosted (imagem, áudio e texto), consumido pela API pela rede interna. AGPL-3.0-only.
 - [`docs`](https://github.com/Rede-Civica/docs): livro, especificações de software, tutoriais, guias e referências. CC BY-SA 4.0.
-- [`mvp-docs`](https://github.com/Rede-Civica/mvp-docs): site público de documentação, em [`docs.redecivica.com.br`](https://docs.redecivica.com.br). AGPL-3.0.
+- [`mvp-docs`](https://github.com/Rede-Civica/mvp-docs): site público de documentação, em [`docs.redecivica.com.br`](https://docs.redecivica.com.br). AGPL-3.0-only.
 
 ## Licença
 
-Todo o código é [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html). Copyleft forte para serviços de rede.
+Todo o código é [AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html). Copyleft forte para serviços de rede. Não há licença proprietária, versão comercial fechada, open core ou relicenciamento comercial.
 
 O livro e a documentação são [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Compartilhamento e adaptação livres, com atribuição e a mesma licença.
 
 O nome e o logo Rede Cívica são marca do projeto. A licença do código não concede direito de uso da marca. A política está em [`TRADEMARK.md`](https://github.com/Rede-Civica/.github/blob/main/TRADEMARK.md).
 
+A [Carta Social](https://github.com/Rede-Civica/.github/blob/main/SOCIAL_CHARTER.md) registra os compromissos de missão, licença, dados, governança, dinheiro, marca e fundação. Ela é condição da licença de uso da marca.
+
+Promessa ao contribuidor: você mantém o copyright da sua contribuição, ela é distribuída sob AGPL-3.0-only e o projeto não vende licença proprietária do seu código. O [FAQ do CLA](https://github.com/Rede-Civica/.github/blob/main/CLA_FAQ.md) detalha a promessa.
+
 ## Governança
 
-A decisão final é do fundador até a constituição da fundação. A governança publica papéis, prazos, propostas públicas de mudança, veto e o caminho até a fundação.
+A decisão final é do fundador até a constituição da fundação. A governança publica papéis, prazos, propostas públicas de mudança, veto e o caminho até a fundação. A Carta Social vincula a marca e o estatuto da fundação.
 
+- [Carta Social](https://github.com/Rede-Civica/.github/blob/main/SOCIAL_CHARTER.md)
 - [Governança](https://github.com/Rede-Civica/.github/blob/main/GOVERNANCE.md)
 - [Mantenedores](https://github.com/Rede-Civica/.github/blob/main/MAINTAINERS.md)
 - [Escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md)
@@ -58,7 +63,7 @@ O site [docs.redecivica.com.br](https://docs.redecivica.com.br) publica o livro,
 - Entender dados e modelos: [mapa de dados](https://github.com/Rede-Civica/.github/blob/main/DATA.md) e [fichas de modelo](https://github.com/Rede-Civica/.github/blob/main/MODELS.md).
 - Rodar o projeto: [tutorial de execução local](https://docs.redecivica.com.br/tutoriais/rodando-o-projeto-localmente/).
 - Contribuir: leia a [escada de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_LADDER.md), o [guia de contribuição](https://github.com/Rede-Civica/.github/blob/main/CONTRIBUTOR_HANDBOOK.md) e o [guia de suporte](https://github.com/Rede-Civica/.github/blob/main/SUPPORT.md).
-- Antes de contribuir: [triagem](https://github.com/Rede-Civica/.github/blob/main/TRIAGE.md), com prazos e labels, e [FAQ do CLA](https://github.com/Rede-Civica/.github/blob/main/CLA_FAQ.md), com o que o aceite concede e o que você mantém.
+- Antes de contribuir: [Carta Social](https://github.com/Rede-Civica/.github/blob/main/SOCIAL_CHARTER.md), [triagem](https://github.com/Rede-Civica/.github/blob/main/TRIAGE.md), com prazos e labels, e [FAQ do CLA](https://github.com/Rede-Civica/.github/blob/main/CLA_FAQ.md), com o que o aceite concede e o que você mantém.
 - Contribuir com a documentação: [como editar a documentação](https://docs.redecivica.com.br/como-editar-a-documentacao/).
 - Contribuir com código: os repositórios abrem quando os critérios de segurança estiverem fechados. A escada e o guia de suporte valem desde já.
 - Dúvidas e suporte: [Discussões](https://github.com/Rede-Civica/.github/discussions) para conversa pública e [issues da organização](https://github.com/Rede-Civica/.github/issues) para bug ou proposta com escopo.

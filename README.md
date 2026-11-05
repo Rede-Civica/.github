@@ -7,6 +7,7 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 ## Comece por aqui
 
 - [Arquitetura](ARCHITECTURE.md): repositórios, fluxo de eventos e onde mexer.
+- [Carta Social](SOCIAL_CHARTER.md): missão, licença, dados, governança, dinheiro, marca e fundação.
 - [Guia de contribuição](CONTRIBUTOR_HANDBOOK.md): do zero ao primeiro pull request em um dia.
 - [Governança](GOVERNANCE.md): papéis, decisões e caminho até a fundação.
 - [Suporte](SUPPORT.md): canais, prazos e escopo.
@@ -35,8 +36,9 @@ O perfil da organização é [`profile/README.md`](profile/README.md) e aparece 
 | [`ENCONTROS.md`](ENCONTROS.md) | Formato, pauta e notas dos encontros mensais abertos. |
 | [`DEVLOG.md`](DEVLOG.md) | Modelo do diário público de avanços. |
 | [`METRICS.md`](METRICS.md) | Definições, primeira medição, metas e relatório mensal de saúde da comunidade. |
-| [`CLA.md`](CLA.md) | Acordo de Licença de Contribuição. |
-| [`CLA_FAQ.md`](CLA_FAQ.md) | Explicação do CLA, AGPL, uso comercial, fundação e contribuição sem aceite. |
+| [`CLA.md`](CLA.md) | Acordo de Licença de Contribuição, versão AGPL-3.0-only. |
+| [`CLA_FAQ.md`](CLA_FAQ.md) | Explicação do CLA, AGPL-only, uso comercial, fundação e contribuição sem aceite. |
+| [`SOCIAL_CHARTER.md`](SOCIAL_CHARTER.md) | Carta Social: missão, licença, dados, governança, dinheiro, marca e fundação. |
 | [`TRADEMARK.md`](TRADEMARK.md) | Política de uso do nome e do logo. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Checklist padrão de pull request. |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Formulários de issue da organização. |
@@ -68,4 +70,4 @@ O comando roda markdownlint e markdown-link-check em todo o markdown. O workflow
 
 ## Licença
 
-As licenças de código, texto e marca estão no [perfil da organização](https://github.com/Rede-Civica). O texto de governança segue CC BY-SA 4.0. A automação de verificação segue AGPL-3.0. A marca segue [`TRADEMARK.md`](TRADEMARK.md).
+As licenças de código, texto e marca estão no [perfil da organização](https://github.com/Rede-Civica). O texto de governança segue CC BY-SA 4.0. A automação de verificação segue AGPL-3.0-only. A marca segue [`TRADEMARK.md`](TRADEMARK.md) e a [`SOCIAL_CHARTER.md`](SOCIAL_CHARTER.md).
